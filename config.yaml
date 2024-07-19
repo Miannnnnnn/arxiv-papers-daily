@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Jasper0420"
+user_name: "Marathon19"
 repo_name: "arxiv-papers-daily"
 show_authors: True
 show_links: True
@@ -22,20 +22,23 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-     "Tracking": 
-        filters: ["UAV tracking","SOT", "Visual Object Tracking","vision language tracking","RGB-E Tracking","RGB-T Tracking"
-        ,"RGB-D Tracking"]
-    "HDR":
-        filters: ["HDR","HDR Video", "HDR Images", "Real-Time HDR","High Dynamic Range"]
-    "Low-Level":
-        filters: ["Low-light Image Enhancement","Image Fusion",
-                  "Image Restoration"," Image Enhancement",
-                  "Multi-Granularity","image retrieval","context-aware"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "MutilModal":
-        filters: ["MutilModal", "MLLM", "Multimodal Alignment", 
-                  "Vision-and-Language", "Multimodal Fusion", "Crossmodal Retrieval","Mutil-view", "cross-view"]
-    "Prompt":
-        filters: ["Multi-Granularity", "LORA", "Contextual", "Prompt"]
+     "Tropical Cyclone": 
+        filters: ["Tropical Cyclone Forecast","Tropical Cyclone Forecasting",
+        "Tropical Cyclone Predict","Tropical Cyclone Prediction",
+        "Tropical Cyclone Trajectory Forecast","Tropical Cyclone Trajectories Forecast",
+        "Tropical Cyclone Trajectory Predict","Tropical Cyclone Trajectories Prediction",
+        "Tropical Cyclone Intensity Forecast","Tropical Cyclone Intensity Forecast",
+        "Tropical Cyclone Intensity Predict","Tropical Cyclone Intensity Prediction"
+        ]
+    "Typhoon":
+        filters: ["Typhoon Forecast","Typhoon Forecasting",
+        "Typhoon Predict","Typhoon Prediction",
+        "Typhoon Trajectory Forecast","Typhoon Trajectories Forecast",
+        "Typhoon Trajectory Predict","Typhoon Trajectories Prediction",
+        "Typhoon Intensity Forecast","Typhoon Intensity Forecast",
+        "Typhoon Intensity Predict","Typhoon Intensity Prediction"
+        ]
+    "Estimation":
+        filters: ["Tropical Cyclone Estimation","Typhoon Estimation",
+        "Tropical Cyclone Intensity Estimation","Typhoon Intensity Estimation",
+        ]
