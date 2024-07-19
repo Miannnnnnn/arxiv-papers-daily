@@ -23,19 +23,21 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Tropical Cyclone": 
-        filters: ["Tropical Cyclone Forecast","Tropical Cyclone Forecasting",
-        "Tropical Cyclone Predict","Tropical Cyclone Prediction",
-        "Tropical Cyclone Trajectory Forecast","Tropical Cyclone Trajectories Forecast",
-        "Tropical Cyclone Trajectory Predict","Tropical Cyclone Trajectories Prediction",
-        "Tropical Cyclone Intensity Forecast","Tropical Cyclone Intensity Forecast",
-        "Tropical Cyclone Intensity Predict","Tropical Cyclone Intensity Prediction"]
+        # filters: ["Tropical Cyclone Forecast","Tropical Cyclone Forecasting",
+        # "Tropical Cyclone Predict","Tropical Cyclone Prediction",
+        # "Tropical Cyclone Trajectory Forecast","Tropical Cyclone Trajectories Forecast",
+        # "Tropical Cyclone Trajectory Predict","Tropical Cyclone Trajectories Prediction",
+        # "Tropical Cyclone Intensity Forecast","Tropical Cyclone Intensity Forecast",
+        # "Tropical Cyclone Intensity Predict","Tropical Cyclone Intensity Prediction"]
+        filters: ["Tropical Cyclone"]
     "Typhoon":
-        filters: ["Typhoon Forecast","Typhoon Forecasting",
-        "Typhoon Predict","Typhoon Prediction",
-        "Typhoon Trajectory Forecast","Typhoon Trajectories Forecast",
-        "Typhoon Trajectory Predict","Typhoon Trajectories Prediction",
-        "Typhoon Intensity Forecast","Typhoon Intensity Forecast",
-        "Typhoon Intensity Predict","Typhoon Intensity Prediction"]
+        # filters: ["Typhoon Forecast","Typhoon Forecasting",
+        # "Typhoon Predict","Typhoon Prediction",
+        # "Typhoon Trajectory Forecast","Typhoon Trajectories Forecast",
+        # "Typhoon Trajectory Predict","Typhoon Trajectories Prediction",
+        # "Typhoon Intensity Forecast","Typhoon Intensity Forecast",
+        # "Typhoon Intensity Predict","Typhoon Intensity Prediction"]
+        filters: ["Typhoon"]
     "Estimation":
         filters: ["Tropical Cyclone Estimation","Typhoon Estimation",
         "Tropical Cyclone Intensity Estimation","Typhoon Intensity Estimation"]
