@@ -15,7 +15,7 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Marathon
+  GITHUB_USER_NAME: Marathon19
   GITHUB_USER_EMAIL:  
   
   
