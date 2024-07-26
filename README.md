@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.25</span>
+# Updated on <span style='color:orange;'>2024.07.26</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 <details open>
@@ -21,7 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
 |**2024-07-16**|**A Scalable Real-Time Data Assimilation Framework for Predicting Turbulent Atmosphere Dynamics**|Junqi Yin et.al.|[2407.12168](http://arxiv.org/abs/2407.12168)|null|
-|**2024-07-08**|**Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging**|Syed Zahid Husain et.al.|[2407.06100](http://arxiv.org/abs/2407.06100)|null|
+|**2024-07-24**|**Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging**|Syed Zahid Husain et.al.|[2407.06100](http://arxiv.org/abs/2407.06100)|null|
 |**2024-07-07**|**Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing**|Shikha Verma et.al.|[2407.05255](http://arxiv.org/abs/2407.05255)|null|
 |**2024-06-21**|**Using Neural Networks for Data Cleaning in Weather Datasets**|Jack R. P. Hanslope et.al.|[2406.15027](http://arxiv.org/abs/2406.15027)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
@@ -38,7 +38,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2020-12-07**|**Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning**|Trey McNeely et.al.|[2010.05783](http://arxiv.org/abs/2010.05783)|null|
 |**2017-08-22**|**Stacked transfer learning for tropical cyclone intensity prediction**|Ratneel Vikash Deo et.al.|[1708.06539](http://arxiv.org/abs/1708.06539)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Typhoon
 
@@ -56,7 +56,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2023-10-10**|**Photovoltaic grid-forming control strategy investigation using hardware-in-the-loop experiments**|Somesh Bhattacharya et.al.|[2310.06479](http://arxiv.org/abs/2310.06479)|null|
 |**2020-08-11**|**Semantic-based End-to-End Learning for Typhoon Intensity Prediction**|Hamada M. Zahera et.al.|[2003.13779](http://arxiv.org/abs/2003.13779)|**[link](https://github.com/dice-group/joint-model-disaster-prediction)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Estimation
 
@@ -66,7 +66,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-07-07**|**Tropical cyclone intensity estimations over the Indian ocean using Machine Learning**|Koushik Biswas et.al.|[2107.05573](http://arxiv.org/abs/2107.05573)|null|
 |**2020-10-28**|**Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data**|Boyo Chen et.al.|[2010.14977](http://arxiv.org/abs/2010.14977)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors

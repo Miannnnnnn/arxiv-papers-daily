@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.25</span>
+# Updated on <span style='color:orange;'>2024.07.26</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -16,7 +16,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
 |**2024-07-16**|**A Scalable Real-Time Data Assimilation Framework for Predicting Turbulent Atmosphere Dynamics**|Junqi Yin et.al.|[2407.12168](http://arxiv.org/abs/2407.12168)|null|
-|**2024-07-08**|**Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging**|Syed Zahid Husain et.al.|[2407.06100](http://arxiv.org/abs/2407.06100)|null|
+|**2024-07-24**|**Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging**|Syed Zahid Husain et.al.|[2407.06100](http://arxiv.org/abs/2407.06100)|null|
 |**2024-07-07**|**Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing**|Shikha Verma et.al.|[2407.05255](http://arxiv.org/abs/2407.05255)|null|
 |**2024-06-21**|**Using Neural Networks for Data Cleaning in Weather Datasets**|Jack R. P. Hanslope et.al.|[2406.15027](http://arxiv.org/abs/2406.15027)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
