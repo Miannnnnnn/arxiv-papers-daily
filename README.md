@@ -12,6 +12,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
     <li><a href=#tropical-cyclone>Tropical Cyclone</a></li>
     <li><a href=#typhoon>Typhoon</a></li>
     <li><a href=#estimation>Estimation</a></li>
+    <li><a href=#hurricane>Hurricane</a></li>
   </ol>
 </details>
 
@@ -65,6 +66,21 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2024-04-11**|**Global versus Local: Evaluating AlexNet Architectures for Tropical Cyclone Intensity Estimation**|Vikas Dwivedi et.al.|[2404.07395](http://arxiv.org/abs/2404.07395)|**[link](https://github.com/vikas-dwivedi-2022/cyclone_intensity_estimation_with_alexnets)**|
 |**2021-07-07**|**Tropical cyclone intensity estimations over the Indian ocean using Machine Learning**|Koushik Biswas et.al.|[2107.05573](http://arxiv.org/abs/2107.05573)|null|
 |**2020-10-28**|**Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data**|Boyo Chen et.al.|[2010.14977](http://arxiv.org/abs/2010.14977)|null|
+
+<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+
+## Hurricane
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-06-17**|**Deploying scalable traffic prediction models for efficient management in real-world large transportation networks during hurricane evacuations**|Qinhua Jiang et.al.|[2406.12119](http://arxiv.org/abs/2406.12119)|null|
+|**2024-03-07**|**Storm Surge Modeling in the AI ERA: Using LSTM-based Machine Learning for Enhancing Forecasting Accuracy**|Stefanos Giaremis et.al.|[2403.04818](http://arxiv.org/abs/2403.04818)|null|
+|**2023-09-12**|**HurriCast: An Automatic Framework Using Machine Learning and Statistical Modeling for Hurricane Forecasting**|Shouwei Gao et.al.|[2309.07174](http://arxiv.org/abs/2309.07174)|null|
+|**2022-10-28**|**The Hurricane Track Fit Consensus Model for Improving Hurricane Forecasting**|Nathan Ginis et.al.|[2210.16382](http://arxiv.org/abs/2210.16382)|null|
+|**2022-01-25**|**Multi-stage Stochastic Programming Methods for Adaptive Disaster Relief Logistics Planning**|Murwan Siddig et.al.|[2201.10678](http://arxiv.org/abs/2201.10678)|**[link](https://github.com/murwansiddig/msp_models_for_adaptive_disaster_relief_logistics_planning)**|
+|**2021-05-07**|**Probabilistic Modeling of Hurricane Wind-Induced Damage in Infrastructure Systems**|Derek Chang et.al.|[2105.03497](http://arxiv.org/abs/2105.03497)|null|
+|**2022-09-24**|**Hurricane Forecasting: A Novel Multimodal Machine Learning Framework**|Léonard Boussioux et.al.|[2011.06125](http://arxiv.org/abs/2011.06125)|**[link](https://github.com/leobix/hurricast)**|
 
 <p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
 
