@@ -41,3 +41,6 @@ keywords:
     "Estimation":
         filters: ["Tropical Cyclone Estimation","Typhoon Estimation",
         "Tropical Cyclone Intensity Estimation","Typhoon Intensity Estimation"]
+    "Hurricane":
+        filters: ["Hurricane Estimation","Hurricane Forecast",
+        "Hurricane Forecasting","Hurricane Predict","Hurricane Prediction"]
