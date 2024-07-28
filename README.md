@@ -74,6 +74,16 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-07-24**|**CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery**|Thomas Manzini et.al.|[2407.17673](http://arxiv.org/abs/2407.17673)|null|
+|**2024-07-24**|**Resource Allocation for 5G-UAV Based Emergency Wireless Communications**|Zhuohui Yao et.al.|[2407.17094](http://arxiv.org/abs/2407.17094)|null|
+|**2024-07-21**|**Hurricane Evacuation Analysis with Large-scale Mobile Device Location Data during Hurricane Ian**|Luyu Liu et.al.|[2407.15249](http://arxiv.org/abs/2407.15249)|null|
+|**2024-07-17**|**Neural Compression of Atmospheric States**|Piotr Mirowski et.al.|[2407.11666](http://arxiv.org/abs/2407.11666)|null|
+|**2024-07-13**|**Correlating Power Outage Spread with Infrastructure Interdependencies During Hurricanes**|Avishek Bose et.al.|[2407.09962](http://arxiv.org/abs/2407.09962)|null|
+|**2024-07-10**|**Causal Leverage Density: A General Approach to Semantic Information**|Stuart J Bartlett et.al.|[2407.07335](http://arxiv.org/abs/2407.07335)|null|
+|**2024-07-01**|**Quantifying cascading power outages during climate extremes considering renewable energy integration**|Luo Xu et.al.|[2407.01758](http://arxiv.org/abs/2407.01758)|null|
+|**2024-06-26**|**Robust Distributed Learning of Functional Data From Simulators through Data Sketching**|R. Jacob Andros et.al.|[2406.18751](http://arxiv.org/abs/2406.18751)|null|
+|**2024-06-27**|**Anatomizing Societal Recovery at the Microscale: Heterogeneity in Household Lifestyle Activities Rebounding after Disasters**|Natalie Coleman et.al.|[2406.17993](http://arxiv.org/abs/2406.17993)|null|
+|**2024-07-12**|**AI-based Drone Assisted Human Rescue in Disaster Environments: Challenges and Opportunities**|Narek Papyan et.al.|[2406.15875](http://arxiv.org/abs/2406.15875)|null|
 |**2024-06-17**|**Deploying scalable traffic prediction models for efficient management in real-world large transportation networks during hurricane evacuations**|Qinhua Jiang et.al.|[2406.12119](http://arxiv.org/abs/2406.12119)|null|
 |**2024-03-07**|**Storm Surge Modeling in the AI ERA: Using LSTM-based Machine Learning for Enhancing Forecasting Accuracy**|Stefanos Giaremis et.al.|[2403.04818](http://arxiv.org/abs/2403.04818)|null|
 |**2023-09-12**|**HurriCast: An Automatic Framework Using Machine Learning and Statistical Modeling for Hurricane Forecasting**|Shouwei Gao et.al.|[2309.07174](http://arxiv.org/abs/2309.07174)|null|
