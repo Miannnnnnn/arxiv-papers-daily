@@ -51,6 +51,9 @@
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
 
 ## Hurricane
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 <p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 
