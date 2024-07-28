@@ -50,14 +50,9 @@
 |**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
 |**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
 
-## mutil-modal
+## Hurricane
 <p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
-## mutil-view
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
-
-## Image-Matching 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
