@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.30</span>
+# Updated on <span style='color:orange;'>2024.07.31</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -62,7 +62,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
-|**2024-07-24**|**CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery**|Thomas Manzini et.al.|[2407.17673](http://arxiv.org/abs/2407.17673)|null|
+|**2024-07-29**|**CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery**|Thomas Manzini et.al.|[2407.17673](http://arxiv.org/abs/2407.17673)|null|
 |**2024-07-24**|**Resource Allocation for 5G-UAV Based Emergency Wireless Communications**|Zhuohui Yao et.al.|[2407.17094](http://arxiv.org/abs/2407.17094)|null|
 |**2024-07-21**|**Hurricane Evacuation Analysis with Large-scale Mobile Device Location Data during Hurricane Ian**|Luyu Liu et.al.|[2407.15249](http://arxiv.org/abs/2407.15249)|null|
 |**2024-07-17**|**Neural Compression of Atmospheric States**|Piotr Mirowski et.al.|[2407.11666](http://arxiv.org/abs/2407.11666)|null|
