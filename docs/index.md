@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.07</span>
+# Updated on <span style='color:orange;'>2024.08.08</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -19,7 +19,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2024-07-24**|**Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging**|Syed Zahid Husain et.al.|[2407.06100](http://arxiv.org/abs/2407.06100)|null|
 |**2024-07-07**|**Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing**|Shikha Verma et.al.|[2407.05255](http://arxiv.org/abs/2407.05255)|null|
 |**2024-06-21**|**Using Neural Networks for Data Cleaning in Weather Datasets**|Jack R. P. Hanslope et.al.|[2406.15027](http://arxiv.org/abs/2406.15027)|null|
-|**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
+|**2024-08-07**|**AIFS -- ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 |**2024-05-14**|**Quest for an efficient mathematical and computational method to explore optimal extreme weather modification**|Yohei Sawada et.al.|[2405.08387](http://arxiv.org/abs/2405.08387)|null|
 |**2024-05-01**|**Machine Learning Techniques for Data Reduction of Climate Applications**|Xiao Li et.al.|[2405.00879](http://arxiv.org/abs/2405.00879)|null|
 |**2024-04-29**|**Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Tropical Cyclone Hazards**|Kairui Feng et.al.|[2404.18440](http://arxiv.org/abs/2404.18440)|null|
