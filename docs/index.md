@@ -63,6 +63,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-08-13**|**Cross-View Geolocalization and Disaster Mapping with Street-View and VHR Satellite Imagery: A Case Study of Hurricane IAN**|Hao Li et.al.|[2408.06761](http://arxiv.org/abs/2408.06761)|null|
 |**2024-08-11**|**A Comparative Study of Convolutional and Recurrent Neural Networks for Storm Surge Prediction in Tampa Bay**|Mandana Farhang Ghahfarokhi et.al.|[2408.05797](http://arxiv.org/abs/2408.05797)|null|
 |**2024-07-31**|**Enabling Quick, Accurate Crowdsourced Annotation for Elevation-Aware Flood Extent Mapping**|Landon Dyken et.al.|[2408.05350](http://arxiv.org/abs/2408.05350)|null|
 |**2024-07-29**|**CRASAR-U-DROIDs: A Large Scale Benchmark Dataset for Building Alignment and Damage Assessment in Georectified sUAS Imagery**|Thomas Manzini et.al.|[2407.17673](http://arxiv.org/abs/2407.17673)|null|
