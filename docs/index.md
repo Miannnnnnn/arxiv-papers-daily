@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.16</span>
+# Updated on <span style='color:orange;'>2024.08.17</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -22,7 +22,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2024-08-07**|**AIFS -- ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 |**2024-05-14**|**Quest for an efficient mathematical and computational method to explore optimal extreme weather modification**|Yohei Sawada et.al.|[2405.08387](http://arxiv.org/abs/2405.08387)|null|
 |**2024-05-01**|**Machine Learning Techniques for Data Reduction of Climate Applications**|Xiao Li et.al.|[2405.00879](http://arxiv.org/abs/2405.00879)|null|
-|**2024-04-29**|**Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Tropical Cyclone Hazards**|Kairui Feng et.al.|[2404.18440](http://arxiv.org/abs/2404.18440)|null|
+|**2024-04-29**|**Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Tropical Cyclone Hazards**|Kairui Feng et.al.|[2404.18440](http://arxiv.org/abs/2404.18440)|**[link](https://github.com/kelvinfkr/perturbation_ai_weather)**|
 |**2024-04-25**|**Comparison of adaptive mesh refinement techniques for numerical weather prediction**|Daniel S. Abdi et.al.|[2404.16648](http://arxiv.org/abs/2404.16648)|null|
 |**2024-04-20**|**What can Hurricane SAM (2021) tell us about ocean waves under tropical cyclones?**|Xiaolu Zhao et.al.|[2404.13457](http://arxiv.org/abs/2404.13457)|null|
 |**2024-02-16**|**Global Tropical Cyclone Intensity Forecasting with Multi-modal Multi-scale Causal Autoregressive Model**|Xinyu Wang et.al.|[2402.13270](http://arxiv.org/abs/2402.13270)|null|
@@ -40,7 +40,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2024-08-05**|**Stability in Isolated Grids: Implementation and Analysis of the Dead-Zone Virtual Oscillator Control in Simulink and Typhoon HIL**|Dixant Bikal Sapkota et.al.|[2408.02468](http://arxiv.org/abs/2408.02468)|null|
 |**2024-06-13**|**Enhancing Resilience of Power Systems against Typhoon Threats: A Hybrid Data-Model Driven Approach**|Yang Li et.al.|[2406.10298](http://arxiv.org/abs/2406.10298)|null|
 |**2024-05-31**|**Dynamic Microgrid Formation Considering Time-dependent Contingency: A Distributionally Robust Approach**|Ziang Liu et.al.|[2405.20733](http://arxiv.org/abs/2405.20733)|null|
-|**2024-04-29**|**Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Tropical Cyclone Hazards**|Kairui Feng et.al.|[2404.18440](http://arxiv.org/abs/2404.18440)|null|
+|**2024-04-29**|**Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Tropical Cyclone Hazards**|Kairui Feng et.al.|[2404.18440](http://arxiv.org/abs/2404.18440)|**[link](https://github.com/kelvinfkr/perturbation_ai_weather)**|
 |**2024-04-17**|**Elucidation of Unique Developmental Mechanism of Storm Surge along Northern Coast of Kyushu Island, Japan**|Shinichiro Ozaki et.al.|[2404.11079](http://arxiv.org/abs/2404.11079)|null|
 |**2024-01-28**|**Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data**|Young-Jae Park et.al.|[2401.15726](http://arxiv.org/abs/2401.15726)|null|
 |**2023-12-21**|**Typhoon: Thai Large Language Models**|Kunat Pipatanakul et.al.|[2312.13951](http://arxiv.org/abs/2312.13951)|null|
