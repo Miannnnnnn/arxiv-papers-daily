@@ -37,6 +37,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Improving Typhoon Predictions by Integrating Data-Driven Machine Learning Models with Physics Models Based on the Spectral Nudging and Data Assimilation**|Zeyi Niu et.al.|[2408.12630](http://arxiv.org/abs/2408.12630)|null|
 |**2024-08-05**|**Stability in Isolated Grids: Implementation and Analysis of the Dead-Zone Virtual Oscillator Control in Simulink and Typhoon HIL**|Dixant Bikal Sapkota et.al.|[2408.02468](http://arxiv.org/abs/2408.02468)|null|
 |**2024-06-13**|**Enhancing Resilience of Power Systems against Typhoon Threats: A Hybrid Data-Model Driven Approach**|Yang Li et.al.|[2406.10298](http://arxiv.org/abs/2406.10298)|null|
 |**2024-05-31**|**Dynamic Microgrid Formation Considering Time-dependent Contingency: A Distributionally Robust Approach**|Ziang Liu et.al.|[2405.20733](http://arxiv.org/abs/2405.20733)|null|
