@@ -37,6 +37,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Quantifying azimuthal variations within the interstellar medium of z ~ 0 spiral galaxies with the TYPHOON survey**|Qian-Hui Chen et.al.|[2409.05341](http://arxiv.org/abs/2409.05341)|null|
 |**2024-08-22**|**Improving Typhoon Predictions by Integrating Data-Driven Machine Learning Models with Physics Models Based on the Spectral Nudging and Data Assimilation**|Zeyi Niu et.al.|[2408.12630](http://arxiv.org/abs/2408.12630)|null|
 |**2024-08-05**|**Stability in Isolated Grids: Implementation and Analysis of the Dead-Zone Virtual Oscillator Control in Simulink and Typhoon HIL**|Dixant Bikal Sapkota et.al.|[2408.02468](http://arxiv.org/abs/2408.02468)|null|
 |**2024-06-13**|**Enhancing Resilience of Power Systems against Typhoon Threats: A Hybrid Data-Model Driven Approach**|Yang Li et.al.|[2406.10298](http://arxiv.org/abs/2406.10298)|null|
@@ -64,6 +65,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
 |**2024-08-18**|**Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields**|Timbwaoga A. J. Ouermi et.al.|[2409.00042](http://arxiv.org/abs/2409.00042)|null|
 |**2024-08-29**|**AI-driven weather forecasts enable anticipated attribution of extreme events to human-made climate change**|Bernat Jiménez-Esteve et.al.|[2408.16433](http://arxiv.org/abs/2408.16433)|**[link](https://github.com/bernatj/ai-based-attribution)**|
 |**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133](http://arxiv.org/abs/2408.11133)|null|
