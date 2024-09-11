@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.09.10</span>
+# Updated on <span style='color:orange;'>2024.09.11</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -65,7 +65,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
-|**2024-09-09**|**NeurLZ: On Systematically Enhancing Lossy Compression Performance for Scientific Data based on Neural Learning with Error Control**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
+|**2024-09-10**|**NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
 |**2024-08-18**|**Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields**|Timbwaoga A. J. Ouermi et.al.|[2409.00042](http://arxiv.org/abs/2409.00042)|null|
 |**2024-08-29**|**AI-driven weather forecasts enable anticipated attribution of extreme events to human-made climate change**|Bernat Jiménez-Esteve et.al.|[2408.16433](http://arxiv.org/abs/2408.16433)|**[link](https://github.com/bernatj/ai-based-attribution)**|
 |**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133](http://arxiv.org/abs/2408.11133)|null|
