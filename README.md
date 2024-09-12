@@ -21,6 +21,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-09-11**|**FuXi-2.0: Advancing machine learning weather forecasting model for practical applications**|Xiaohui Zhong et.al.|[2409.07188](http://arxiv.org/abs/2409.07188)|null|
+|**2024-09-08**|**Evaluation of Tropical Cyclone Track and Intensity Forecasts from Artificial Intelligence Weather Prediction (AIWP) Models**|Mark DeMaria et.al.|[2409.06735](http://arxiv.org/abs/2409.06735)|null|
 |**2024-07-16**|**A Scalable Real-Time Data Assimilation Framework for Predicting Turbulent Atmosphere Dynamics**|Junqi Yin et.al.|[2407.12168](http://arxiv.org/abs/2407.12168)|null|
 |**2024-07-24**|**Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging**|Syed Zahid Husain et.al.|[2407.06100](http://arxiv.org/abs/2407.06100)|null|
 |**2024-07-07**|**Estimation of the Area and Precipitation Associated with a Tropical Cyclone Biparjoy by using Image Processing**|Shikha Verma et.al.|[2407.05255](http://arxiv.org/abs/2407.05255)|null|
