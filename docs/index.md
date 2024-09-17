@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-09-15**|**A Convolutional Neural Network-based Ensemble Post-processing with Data Augmentation for Tropical Cyclone Precipitation Forecasts**|Sing-Wen Chen et.al.|[2409.09607](http://arxiv.org/abs/2409.09607)|null|
 |**2024-09-11**|**FuXi-2.0: Advancing machine learning weather forecasting model for practical applications**|Xiaohui Zhong et.al.|[2409.07188](http://arxiv.org/abs/2409.07188)|**[link](https://github.com/198808xc/Pangu-Weather)**|
 |**2024-09-08**|**Evaluation of Tropical Cyclone Track and Intensity Forecasts from Artificial Intelligence Weather Prediction (AIWP) Models**|Mark DeMaria et.al.|[2409.06735](http://arxiv.org/abs/2409.06735)|null|
 |**2024-07-16**|**A Scalable Real-Time Data Assimilation Framework for Predicting Turbulent Atmosphere Dynamics**|Junqi Yin et.al.|[2407.12168](http://arxiv.org/abs/2407.12168)|null|
@@ -39,10 +40,11 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-15**|**A Convolutional Neural Network-based Ensemble Post-processing with Data Augmentation for Tropical Cyclone Precipitation Forecasts**|Sing-Wen Chen et.al.|[2409.09607](http://arxiv.org/abs/2409.09607)|null|
 |**2024-09-13**|**Estimating Atmospheric Variables from Digital Typhoon Satellite Images via Conditional Denoising Diffusion Models**|Zhangyue Ling et.al.|[2409.07961](http://arxiv.org/abs/2409.07961)|**[link](https://github.com/tammyling/typhoon-forecasting)**|
 |**2024-09-09**|**Quantifying azimuthal variations within the interstellar medium of z ~ 0 spiral galaxies with the TYPHOON survey**|Qian-Hui Chen et.al.|[2409.05341](http://arxiv.org/abs/2409.05341)|null|
 |**2024-08-22**|**Improving Typhoon Predictions by Integrating Data-Driven Machine Learning Models with Physics Models Based on the Spectral Nudging and Data Assimilation**|Zeyi Niu et.al.|[2408.12630](http://arxiv.org/abs/2408.12630)|null|
-|**2024-08-05**|**Stability in Isolated Grids: Implementation and Analysis of the Dead-Zone Virtual Oscillator Control in Simulink and Typhoon HIL**|Dixant Bikal Sapkota et.al.|[2408.02468](http://arxiv.org/abs/2408.02468)|null|
+|**2024-09-16**|**Stability in Isolated Grids: Implementation and Analysis of the Dead-Zone Virtual Oscillator Control in Simulink and Typhoon HIL**|Dixant Bikal Sapkota et.al.|[2408.02468](http://arxiv.org/abs/2408.02468)|null|
 |**2024-06-13**|**Enhancing Resilience of Power Systems against Typhoon Threats: A Hybrid Data-Model Driven Approach**|Yang Li et.al.|[2406.10298](http://arxiv.org/abs/2406.10298)|null|
 |**2024-05-31**|**Dynamic Microgrid Formation Considering Time-dependent Contingency: A Distributionally Robust Approach**|Ziang Liu et.al.|[2405.20733](http://arxiv.org/abs/2405.20733)|null|
 |**2024-04-29**|**Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Tropical Cyclone Hazards**|Kairui Feng et.al.|[2404.18440](http://arxiv.org/abs/2404.18440)|**[link](https://github.com/kelvinfkr/perturbation_ai_weather)**|
