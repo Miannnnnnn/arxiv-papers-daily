@@ -48,6 +48,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models**|Potsawee Manakul et.al.|[2409.10999](http://arxiv.org/abs/2409.10999)|null|
 |**2024-09-15**|**A Convolutional Neural Network-based Ensemble Post-processing with Data Augmentation for Tropical Cyclone Precipitation Forecasts**|Sing-Wen Chen et.al.|[2409.09607](http://arxiv.org/abs/2409.09607)|null|
 |**2024-09-13**|**Estimating Atmospheric Variables from Digital Typhoon Satellite Images via Conditional Denoising Diffusion Models**|Zhangyue Ling et.al.|[2409.07961](http://arxiv.org/abs/2409.07961)|**[link](https://github.com/tammyling/typhoon-forecasting)**|
 |**2024-09-09**|**Quantifying azimuthal variations within the interstellar medium of z ~ 0 spiral galaxies with the TYPHOON survey**|Qian-Hui Chen et.al.|[2409.05341](http://arxiv.org/abs/2409.05341)|null|
