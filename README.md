@@ -21,6 +21,10 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-09-24**|**Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery**|Ryan Lagerquist et.al.|[2409.16507](http://arxiv.org/abs/2409.16507)|null|
+|**2024-09-24**|**A Deep Learning Earth System Model for Stable and Efficient Simulation of the Current Climate**|Nathaniel Cresswell-Clay et.al.|[2409.16247](http://arxiv.org/abs/2409.16247)|null|
+|**2024-09-20**|**Comparación de las variables físicas que influyen en la rápida intensificación de los ciclones tropicales del Océano Pacífico nororiental durante el periodo 1970-2018**|Mauricio López-Reyes et.al.|[2409.13841](http://arxiv.org/abs/2409.13841)|null|
+|**2024-09-20**|**Remote Interactions between tropical cyclones: The case of Hurricane Michael and Leslie's high predictability uncertainty**|Mauricio López-Reyes et.al.|[2409.13839](http://arxiv.org/abs/2409.13839)|null|
 |**2024-09-15**|**A Convolutional Neural Network-based Ensemble Post-processing with Data Augmentation for Tropical Cyclone Precipitation Forecasts**|Sing-Wen Chen et.al.|[2409.09607](http://arxiv.org/abs/2409.09607)|null|
 |**2024-09-11**|**FuXi-2.0: Advancing machine learning weather forecasting model for practical applications**|Xiaohui Zhong et.al.|[2409.07188](http://arxiv.org/abs/2409.07188)|**[link](https://github.com/198808xc/Pangu-Weather)**|
 |**2024-09-08**|**Evaluation of Tropical Cyclone Track and Intensity Forecasts from Artificial Intelligence Weather Prediction (AIWP) Models**|Mark DeMaria et.al.|[2409.06735](http://arxiv.org/abs/2409.06735)|null|
@@ -83,6 +87,10 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-09-24**|**Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery**|Ryan Lagerquist et.al.|[2409.16507](http://arxiv.org/abs/2409.16507)|null|
+|**2024-09-20**|**Remote Interactions between tropical cyclones: The case of Hurricane Michael and Leslie's high predictability uncertainty**|Mauricio López-Reyes et.al.|[2409.13839](http://arxiv.org/abs/2409.13839)|null|
+|**2024-09-18**|**On the impact of initial conditions in the forecast of Hurricane Leslie extratropical transition**|Mauricio López-Reyes et.al.|[2409.12363](http://arxiv.org/abs/2409.12363)|null|
+|**2024-09-18**|**Dynamics of Post-disaster Recovery in Behavior-dependent Business Networks**|Chia-Fu Liu1 et.al.|[2409.12357](http://arxiv.org/abs/2409.12357)|null|
 |**2024-09-23**|**NeurLZ: On Enhancing Lossy Compression Performance based on Error-Controlled Neural Learning for Scientific Data**|Wenqi Jia et.al.|[2409.05785](http://arxiv.org/abs/2409.05785)|null|
 |**2024-08-18**|**Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields**|Timbwaoga A. J. Ouermi et.al.|[2409.00042](http://arxiv.org/abs/2409.00042)|null|
 |**2024-08-29**|**AI-driven weather forecasts enable anticipated attribution of extreme events to human-made climate change**|Bernat Jiménez-Esteve et.al.|[2408.16433](http://arxiv.org/abs/2408.16433)|**[link](https://github.com/bernatj/ai-based-attribution)**|
