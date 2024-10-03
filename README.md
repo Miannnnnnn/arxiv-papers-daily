@@ -87,6 +87,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-09-14**|**Multimodal Power Outage Prediction for Rapid Disaster Response and Resource Allocation**|Alejandro Aparcedo et.al.|[2410.00017](http://arxiv.org/abs/2410.00017)|null|
 |**2024-09-24**|**Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery**|Ryan Lagerquist et.al.|[2409.16507](http://arxiv.org/abs/2409.16507)|null|
 |**2024-09-20**|**Remote Interactions between tropical cyclones: The case of Hurricane Michael and Leslie's high predictability uncertainty**|Mauricio López-Reyes et.al.|[2409.13839](http://arxiv.org/abs/2409.13839)|null|
 |**2024-09-18**|**On the impact of initial conditions in the forecast of Hurricane Leslie extratropical transition**|Mauricio López-Reyes et.al.|[2409.12363](http://arxiv.org/abs/2409.12363)|null|
