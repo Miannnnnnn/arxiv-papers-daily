@@ -52,6 +52,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey**|Hye-Jin Park et.al.|[2410.02222](http://arxiv.org/abs/2410.02222)|null|
 |**2024-09-17**|**Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models**|Potsawee Manakul et.al.|[2409.10999](http://arxiv.org/abs/2409.10999)|null|
 |**2024-09-15**|**A Convolutional Neural Network-based Ensemble Post-processing with Data Augmentation for Tropical Cyclone Precipitation Forecasts**|Sing-Wen Chen et.al.|[2409.09607](http://arxiv.org/abs/2409.09607)|null|
 |**2024-09-13**|**Estimating Atmospheric Variables from Digital Typhoon Satellite Images via Conditional Denoising Diffusion Models**|Zhangyue Ling et.al.|[2409.07961](http://arxiv.org/abs/2409.07961)|**[link](https://github.com/tammyling/typhoon-forecasting)**|
@@ -87,6 +88,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-10-02**|**Estimating Disaster Resilience of Hurricane Helene on Florida Counties**|Reetwika Basu et.al.|[2410.02071](http://arxiv.org/abs/2410.02071)|null|
+|**2024-10-02**|**Aerial-based Crisis Management Center (ACMC)**|Hossein Rastgoftar et.al.|[2410.01970](http://arxiv.org/abs/2410.01970)|null|
 |**2024-09-14**|**Multimodal Power Outage Prediction for Rapid Disaster Response and Resource Allocation**|Alejandro Aparcedo et.al.|[2410.00017](http://arxiv.org/abs/2410.00017)|null|
 |**2024-09-24**|**Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery**|Ryan Lagerquist et.al.|[2409.16507](http://arxiv.org/abs/2409.16507)|null|
 |**2024-09-20**|**Remote Interactions between tropical cyclones: The case of Hurricane Michael and Leslie's high predictability uncertainty**|Mauricio López-Reyes et.al.|[2409.13839](http://arxiv.org/abs/2409.13839)|null|
