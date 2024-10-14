@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-09-25**|**A Visual-Analytical Approach for Automatic Detection of Cyclonic Events in Satellite Observations**|Akash Agrawal et.al.|[2410.08218](http://arxiv.org/abs/2410.08218)|null|
 |**2024-10-07**|**Bound on forecasting skill for models of North Atlantic tropical cyclone counts**|Daniel Wesley et.al.|[2410.05503](http://arxiv.org/abs/2410.05503)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
 |**2024-10-04**|**Lightning UQ Box: A Comprehensive Framework for Uncertainty Quantification in Deep Learning**|Nils Lehmann et.al.|[2410.03390](http://arxiv.org/abs/2410.03390)|**[link](https://github.com/lightning-uq-box/lightning-uq-box)**|
