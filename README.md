@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-10-17**|**TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness**|Cheng Huang et.al.|[2410.13175](http://arxiv.org/abs/2410.13175)|null|
 |**2024-09-25**|**A Visual-Analytical Approach for Automatic Detection of Cyclonic Events in Satellite Observations**|Akash Agrawal et.al.|[2410.08218](http://arxiv.org/abs/2410.08218)|null|
 |**2024-10-07**|**Bound on forecasting skill for models of North Atlantic tropical cyclone counts**|Daniel Wesley et.al.|[2410.05503](http://arxiv.org/abs/2410.05503)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
@@ -60,7 +61,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2024-10-03**|**The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey**|Hye-Jin Park et.al.|[2410.02222](http://arxiv.org/abs/2410.02222)|null|
 |**2024-09-17**|**Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models**|Potsawee Manakul et.al.|[2409.10999](http://arxiv.org/abs/2409.10999)|null|
 |**2024-09-15**|**A Convolutional Neural Network-based Ensemble Post-processing with Data Augmentation for Tropical Cyclone Precipitation Forecasts**|Sing-Wen Chen et.al.|[2409.09607](http://arxiv.org/abs/2409.09607)|null|
-|**2024-09-13**|**Estimating Atmospheric Variables from Digital Typhoon Satellite Images via Conditional Denoising Diffusion Models**|Zhangyue Ling et.al.|[2409.07961](http://arxiv.org/abs/2409.07961)|**[link](https://github.com/tammyling/typhoon-forecasting)**|
+|**2024-10-17**|**Estimating Atmospheric Variables from Digital Typhoon Satellite Images via Conditional Denoising Diffusion Models**|Zhangyue Ling et.al.|[2409.07961](http://arxiv.org/abs/2409.07961)|**[link](https://github.com/tammyling/typhoon-forecasting)**|
 |**2024-09-09**|**Quantifying azimuthal variations within the interstellar medium of z ~ 0 spiral galaxies with the TYPHOON survey**|Qian-Hui Chen et.al.|[2409.05341](http://arxiv.org/abs/2409.05341)|null|
 |**2024-08-22**|**Improving Typhoon Predictions by Integrating Data-Driven Machine Learning Models with Physics Models Based on the Spectral Nudging and Data Assimilation**|Zeyi Niu et.al.|[2408.12630](http://arxiv.org/abs/2408.12630)|null|
 |**2024-09-16**|**Stability in Isolated Grids: Implementation and Analysis of the Dead-Zone Virtual Oscillator Control in Simulink and Typhoon HIL**|Dixant Bikal Sapkota et.al.|[2408.02468](http://arxiv.org/abs/2408.02468)|null|
@@ -93,6 +94,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-10-01**|**Advancing Spatio-temporal Storm Surge Prediction with Hierarchical Deep Neural Networks**|Saeed Saviz Naeini et.al.|[2410.12823](http://arxiv.org/abs/2410.12823)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
 |**2024-10-01**|**A Hard-Science Approach to Kondratieff's Economic Cycle**|Theodore Modis et.al.|[2410.05285](http://arxiv.org/abs/2410.05285)|null|
 |**2024-10-02**|**Estimating Disaster Resilience of Hurricane Helene on Florida Counties**|Reetwika Basu et.al.|[2410.02071](http://arxiv.org/abs/2410.02071)|null|
