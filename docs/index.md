@@ -82,6 +82,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
 |**2024-10-01**|**Advancing Spatio-temporal Storm Surge Prediction with Hierarchical Deep Neural Networks**|Saeed Saviz Naeini et.al.|[2410.12823](http://arxiv.org/abs/2410.12823)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
 |**2024-10-01**|**A Hard-Science Approach to Kondratieff's Economic Cycle**|Theodore Modis et.al.|[2410.05285](http://arxiv.org/abs/2410.05285)|null|
