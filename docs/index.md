@@ -15,6 +15,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-10-19**|**Can AI weather models predict out-of-distribution gray swan tropical cyclones?**|Y. Qiang Sun et.al.|[2410.14932](http://arxiv.org/abs/2410.14932)|null|
+|**2024-10-11**|**On the possible role of condensation-related hydrostatic pressure adjustments in intensification and weakening of tropical cyclones**|Anastassia M. Makarieva et.al.|[2410.14717](http://arxiv.org/abs/2410.14717)|null|
 |**2024-10-17**|**TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness**|Cheng Huang et.al.|[2410.13175](http://arxiv.org/abs/2410.13175)|null|
 |**2024-09-25**|**A Visual-Analytical Approach for Automatic Detection of Cyclonic Events in Satellite Observations**|Akash Agrawal et.al.|[2410.08218](http://arxiv.org/abs/2410.08218)|null|
 |**2024-10-07**|**Bound on forecasting skill for models of North Atlantic tropical cyclone counts**|Daniel Wesley et.al.|[2410.05503](http://arxiv.org/abs/2410.05503)|null|
@@ -82,6 +84,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-10-19**|**A Fast AI Surrogate for Coastal Ocean Circulation Models**|Zelin Xu et.al.|[2410.14952](http://arxiv.org/abs/2410.14952)|null|
 |**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
 |**2024-10-01**|**Advancing Spatio-temporal Storm Surge Prediction with Hierarchical Deep Neural Networks**|Saeed Saviz Naeini et.al.|[2410.12823](http://arxiv.org/abs/2410.12823)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
