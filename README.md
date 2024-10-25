@@ -96,6 +96,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904](http://arxiv.org/abs/2410.18904)|null|
 |**2024-10-19**|**A Fast AI Surrogate for Coastal Ocean Circulation Models**|Zelin Xu et.al.|[2410.14952](http://arxiv.org/abs/2410.14952)|null|
 |**2024-10-17**|**The KnowWhereGraph Ontology**|Cogan Shimizu et.al.|[2410.13948](http://arxiv.org/abs/2410.13948)|null|
 |**2024-10-01**|**Advancing Spatio-temporal Storm Surge Prediction with Hierarchical Deep Neural Networks**|Saeed Saviz Naeini et.al.|[2410.12823](http://arxiv.org/abs/2410.12823)|null|
