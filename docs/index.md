@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-11-18**|**ACE2: Accurately learning subseasonal to decadal atmospheric variability and forced responses**|Oliver Watt-Meyer et.al.|[2411.11268](http://arxiv.org/abs/2411.11268)|null|
 |**2024-10-28**|**Accelerating Simulations of Tropical Cyclones using Adaptive Mesh Refinement**|Yassine Tissaoui et.al.|[2410.21607](http://arxiv.org/abs/2410.21607)|null|
 |**2024-10-22**|**Can AI weather models predict out-of-distribution gray swan tropical cyclones?**|Y. Qiang Sun et.al.|[2410.14932](http://arxiv.org/abs/2410.14932)|**[link](https://github.com/envfluids/FourCastNet)**|
 |**2024-10-11**|**On the possible role of condensation-related hydrostatic pressure adjustments in intensification and weakening of tropical cyclones**|Anastassia M. Makarieva et.al.|[2410.14717](http://arxiv.org/abs/2410.14717)|null|
@@ -86,6 +87,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-11-17**|**Simple yet effective: a comparative study of statistical models for yearly hurricane forecasting**|Pietro Colombo et.al.|[2411.11112](http://arxiv.org/abs/2411.11112)|null|
 |**2024-10-29**|**Shining a Light on Hurricane Damage Estimation via Nighttime Light Data: Pre-processing Matters**|Nancy Thomas et.al.|[2410.22150](http://arxiv.org/abs/2410.22150)|null|
 |**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904](http://arxiv.org/abs/2410.18904)|null|
 |**2024-10-19**|**A Fast AI Surrogate for Coastal Ocean Circulation Models**|Zelin Xu et.al.|[2410.14952](http://arxiv.org/abs/2410.14952)|null|
