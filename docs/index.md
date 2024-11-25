@@ -87,6 +87,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-11-21**|**Data assimilation in 2D incompressible Navier-Stokes equations, using a stabilized explicit $O(Δt)^2$ leapfrog finite difference scheme run backward in time**|Alfred S. Carasso et.al.|[2411.14617](http://arxiv.org/abs/2411.14617)|null|
 |**2024-11-17**|**Simple yet effective: a comparative study of statistical models for yearly hurricane forecasting**|Pietro Colombo et.al.|[2411.11112](http://arxiv.org/abs/2411.11112)|**[link](https://github.com/pietrostat193/hurricane-forecasting)**|
 |**2024-10-29**|**Shining a Light on Hurricane Damage Estimation via Nighttime Light Data: Pre-processing Matters**|Nancy Thomas et.al.|[2410.22150](http://arxiv.org/abs/2410.22150)|null|
 |**2024-10-24**|**Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts**|Jussi Leinonen et.al.|[2410.18904](http://arxiv.org/abs/2410.18904)|null|
