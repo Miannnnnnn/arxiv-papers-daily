@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
 |**2024-11-18**|**ACE2: Accurately learning subseasonal to decadal atmospheric variability and forced responses**|Oliver Watt-Meyer et.al.|[2411.11268](http://arxiv.org/abs/2411.11268)|**[link](https://github.com/ai2cm/ace)**|
 |**2024-10-28**|**Accelerating Simulations of Tropical Cyclones using Adaptive Mesh Refinement**|Yassine Tissaoui et.al.|[2410.21607](http://arxiv.org/abs/2410.21607)|null|
 |**2024-10-22**|**Can AI weather models predict out-of-distribution gray swan tropical cyclones?**|Y. Qiang Sun et.al.|[2410.14932](http://arxiv.org/abs/2410.14932)|**[link](https://github.com/envfluids/FourCastNet)**|
@@ -53,6 +54,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
 |**2024-11-10**|**Connection Performance Modeling and Analysis of a Radiosonde Network in a Typhoon**|Hanyi Liu et.al.|[2411.01906](http://arxiv.org/abs/2411.01906)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
 |**2024-10-03**|**The spatially resolved relation between dust, gas, and metal abundance with the TYPHOON survey**|Hye-Jin Park et.al.|[2410.02222](http://arxiv.org/abs/2410.02222)|null|
