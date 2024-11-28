@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2024-11-27**|**Benchmarking Agility and Reconfigurability in Satellite Systems for Tropical Cyclone Monitoring**|Brycen D. Pearl et.al.|[2411.18317](http://arxiv.org/abs/2411.18317)|null|
 |**2024-11-25**|**ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting**|Yanfei Xiang et.al.|[2411.16807](http://arxiv.org/abs/2411.16807)|**[link](https://github.com/xiangyanfei212/ADAF)**|
 |**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
 |**2024-11-18**|**ACE2: Accurately learning subseasonal to decadal atmospheric variability and forced responses**|Oliver Watt-Meyer et.al.|[2411.11268](http://arxiv.org/abs/2411.11268)|**[link](https://github.com/ai2cm/ace)**|
@@ -102,6 +103,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-11-27**|**Ridge Regression for Manifold-valued Time-Series with Application to Meteorological Forecast**|Esfandiar Nava-Yazdani et.al.|[2411.18339](http://arxiv.org/abs/2411.18339)|null|
 |**2024-11-21**|**Data assimilation in 2D incompressible Navier-Stokes equations, using a stabilized explicit $O(Δt)^2$ leapfrog finite difference scheme run backward in time**|Alfred S. Carasso et.al.|[2411.14617](http://arxiv.org/abs/2411.14617)|null|
 |**2024-11-17**|**Simple yet effective: a comparative study of statistical models for yearly hurricane forecasting**|Pietro Colombo et.al.|[2411.11112](http://arxiv.org/abs/2411.11112)|**[link](https://github.com/pietrostat193/hurricane-forecasting)**|
 |**2024-10-29**|**Shining a Light on Hurricane Damage Estimation via Nighttime Light Data: Pre-processing Matters**|Nancy Thomas et.al.|[2410.22150](http://arxiv.org/abs/2410.22150)|null|
