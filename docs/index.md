@@ -91,7 +91,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
-|**2024-12-03**|**WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks**|Rajat Shinde et.al.|[2412.02780](http://arxiv.org/abs/2412.02780)|null|
+|**2024-12-03**|**WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks**|Rajat Shinde et.al.|[2412.02780](http://arxiv.org/abs/2412.02780)|**[link](https://github.com/NASA-IMPACT/WxC-Bench)**|
 |**2024-11-27**|**Ridge Regression for Manifold-valued Time-Series with Application to Meteorological Forecast**|Esfandiar Nava-Yazdani et.al.|[2411.18339](http://arxiv.org/abs/2411.18339)|null|
 |**2024-11-21**|**Data assimilation in 2D incompressible Navier-Stokes equations, using a stabilized explicit $O(Δt)^2$ leapfrog finite difference scheme run backward in time**|Alfred S. Carasso et.al.|[2411.14617](http://arxiv.org/abs/2411.14617)|null|
 |**2024-11-17**|**Simple yet effective: a comparative study of statistical models for yearly hurricane forecasting**|Pietro Colombo et.al.|[2411.11112](http://arxiv.org/abs/2411.11112)|**[link](https://github.com/pietrostat193/hurricane-forecasting)**|
