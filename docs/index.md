@@ -56,6 +56,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models**|Kunat Pipatanakul et.al.|[2412.13702](http://arxiv.org/abs/2412.13702)|null|
 |**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
 |**2024-11-10**|**Connection Performance Modeling and Analysis of a Radiosonde Network in a Typhoon**|Hanyi Liu et.al.|[2411.01906](http://arxiv.org/abs/2411.01906)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
@@ -91,6 +92,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-12-18**|**Integrated GIS- and network-based framework for assessing urban critical infrastructure accessibility and resilience: the case of Hurricane Michael**|Pavel O. Kiparisov et.al.|[2412.13728](http://arxiv.org/abs/2412.13728)|null|
 |**2024-12-03**|**WxC-Bench: A Novel Dataset for Weather and Climate Downstream Tasks**|Rajat Shinde et.al.|[2412.02780](http://arxiv.org/abs/2412.02780)|**[link](https://github.com/NASA-IMPACT/WxC-Bench)**|
 |**2024-11-27**|**Ridge Regression for Manifold-valued Time-Series with Application to Meteorological Forecast**|Esfandiar Nava-Yazdani et.al.|[2411.18339](http://arxiv.org/abs/2411.18339)|null|
 |**2024-11-21**|**Data assimilation in 2D incompressible Navier-Stokes equations, using a stabilized explicit $O(Δt)^2$ leapfrog finite difference scheme run backward in time**|Alfred S. Carasso et.al.|[2411.14617](http://arxiv.org/abs/2411.14617)|null|
