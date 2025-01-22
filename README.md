@@ -106,6 +106,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-01-18**|**Anatomy of a Historic Blackout: Decoding Spatiotemporal Dynamics of Power Outages and Disparities During Hurricane Beryl**|Xiangpeng Li et.al.|[2501.10835](http://arxiv.org/abs/2501.10835)|null|
 |**2025-01-16**|**Graph Neural Networks for Travel Distance Estimation and Route Recommendation Under Probabilistic Hazards**|Tong Liu et.al.|[2501.09803](http://arxiv.org/abs/2501.09803)|null|
 |**2025-01-14**|**The improvement in transmission resilience metrics from reduced outages or faster restoration can be calculated by rerunning historical outage data**|Arslan Ahmad et.al.|[2501.06042](http://arxiv.org/abs/2501.06042)|null|
 |**2025-01-08**|**A Deep Learning-Based Method for Power System Resilience Evaluation**|Xuesong Wang et.al.|[2501.04830](http://arxiv.org/abs/2501.04830)|null|
