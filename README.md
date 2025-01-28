@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-06**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149](http://arxiv.org/abs/2501.00149)|null|
 |**2024-11-27**|**Benchmarking Agility and Reconfigurability in Satellite Systems for Tropical Cyclone Monitoring**|Brycen D. Pearl et.al.|[2411.18317](http://arxiv.org/abs/2411.18317)|null|
 |**2024-11-25**|**ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting**|Yanfei Xiang et.al.|[2411.16807](http://arxiv.org/abs/2411.16807)|**[link](https://github.com/xiangyanfei212/ADAF)**|
@@ -106,6 +107,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2024-12-24**|**AI Meets Natural Hazard Risk: A Nationwide Vulnerability Assessment of Data Centers to Natural Hazards and Power Outages**|Miguel Esparza et.al.|[2501.14760](http://arxiv.org/abs/2501.14760)|null|
 |**2025-01-22**|**Anatomy of a Historic Blackout: Decoding Spatiotemporal Dynamics of Power Outages and Disparities During Hurricane Beryl**|Xiangpeng Li et.al.|[2501.10835](http://arxiv.org/abs/2501.10835)|null|
 |**2025-01-16**|**Graph Neural Networks for Travel Distance Estimation and Route Recommendation Under Probabilistic Hazards**|Tong Liu et.al.|[2501.09803](http://arxiv.org/abs/2501.09803)|null|
 |**2025-01-14**|**The improvement in transmission resilience metrics from reduced outages or faster restoration can be calculated by rerunning historical outage data**|Arslan Ahmad et.al.|[2501.06042](http://arxiv.org/abs/2501.06042)|null|
