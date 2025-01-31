@@ -21,7 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
-|**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|null|
+|**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
 |**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-06**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149](http://arxiv.org/abs/2501.00149)|null|
 |**2024-11-27**|**Benchmarking Agility and Reconfigurability in Satellite Systems for Tropical Cyclone Monitoring**|Brycen D. Pearl et.al.|[2411.18317](http://arxiv.org/abs/2411.18317)|null|
