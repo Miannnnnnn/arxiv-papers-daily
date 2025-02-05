@@ -15,6 +15,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-02-02**|**Multi-Hazard Bayesian Hierarchical Model for Damage Prediction**|Mary Lai O. Salvaña et.al.|[2502.00658](http://arxiv.org/abs/2502.00658)|null|
+|**2025-02-01**|**Chinese Historical Documents Reveal Multi-Century Seasonal Shifts in Tropical Cyclone Landfalls**|Gan Zhang et.al.|[2502.00276](http://arxiv.org/abs/2502.00276)|null|
 |**2025-01-31**|**Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**|Christopher Subich et.al.|[2501.19374](http://arxiv.org/abs/2501.19374)|null|
 |**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
 |**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
@@ -60,6 +62,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338](http://arxiv.org/abs/2502.00338)|null|
 |**2024-12-23**|**TSformer: A Non-autoregressive Spatial-temporal Transformers for 30-day Ocean Eddy-Resolving Forecasting**|Guosong Wang et.al.|[2412.17392](http://arxiv.org/abs/2412.17392)|null|
 |**2024-12-19**|**Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models**|Kunat Pipatanakul et.al.|[2412.13702](http://arxiv.org/abs/2412.13702)|**[link](https://github.com/scb-10x/typhoon2-audio)**|
 |**2024-11-25**|**Machine Learning for the Digital Typhoon Dataset: Extensions to Multiple Basins and New Developments in Representations and Tasks**|Asanobu Kitamoto et.al.|[2411.16421](http://arxiv.org/abs/2411.16421)|**[link](https://github.com/kitamoto-lab/digital-typhoon)**|
@@ -97,6 +100,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-02-03**|**Enhancing Near Real Time AI-NWP Hurricane Forecasts: Improving Explainability and Performance Through Physics-Based Models and Land Surface Feedback**|Naveen Sudharsan et.al.|[2502.01797](http://arxiv.org/abs/2502.01797)|null|
 |**2024-12-24**|**AI Meets Natural Hazard Risk: A Nationwide Vulnerability Assessment of Data Centers to Natural Hazards and Power Outages**|Miguel Esparza et.al.|[2501.14760](http://arxiv.org/abs/2501.14760)|null|
 |**2025-01-22**|**Anatomy of a Historic Blackout: Decoding Spatiotemporal Dynamics of Power Outages and Disparities During Hurricane Beryl**|Xiangpeng Li et.al.|[2501.10835](http://arxiv.org/abs/2501.10835)|null|
 |**2025-01-16**|**Graph Neural Networks for Travel Distance Estimation and Route Recommendation Under Probabilistic Hazards**|Tong Liu et.al.|[2501.09803](http://arxiv.org/abs/2501.09803)|null|
