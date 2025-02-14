@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-02-13**|**Warnings based on risk matrices: a coherent framework with consistent evaluation**|Robert J. Taggart et.al.|[2502.08891](http://arxiv.org/abs/2502.08891)|null|
 |**2025-02-02**|**Multi-Hazard Bayesian Hierarchical Model for Damage Prediction**|Mary Lai O. Salvaña et.al.|[2502.00658](http://arxiv.org/abs/2502.00658)|null|
 |**2025-02-01**|**Chinese Historical Documents Reveal Multi-Century Seasonal Shifts in Tropical Cyclone Landfalls**|Gan Zhang et.al.|[2502.00276](http://arxiv.org/abs/2502.00276)|null|
 |**2025-01-31**|**Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**|Christopher Subich et.al.|[2501.19374](http://arxiv.org/abs/2501.19374)|null|
@@ -62,6 +63,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
 |**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338](http://arxiv.org/abs/2502.00338)|**[link](https://github.com/yuangao-yg/oneforecast)**|
 |**2024-12-23**|**TSformer: A Non-autoregressive Spatial-temporal Transformers for 30-day Ocean Eddy-Resolving Forecasting**|Guosong Wang et.al.|[2412.17392](http://arxiv.org/abs/2412.17392)|null|
 |**2024-12-19**|**Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models**|Kunat Pipatanakul et.al.|[2412.13702](http://arxiv.org/abs/2412.13702)|**[link](https://github.com/scb-10x/typhoon2-audio)**|
@@ -100,6 +102,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-02-12**|**AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**|Jinghua Piao et.al.|[2502.08691](http://arxiv.org/abs/2502.08691)|null|
 |**2025-02-04**|**Building Bridges between Users and Content across Multiple Platforms during Natural Disasters**|Lynnette Hui Xian Ng et.al.|[2502.02681](http://arxiv.org/abs/2502.02681)|null|
 |**2025-02-03**|**Enhancing Near Real Time AI-NWP Hurricane Forecasts: Improving Explainability and Performance Through Physics-Based Models and Land Surface Feedback**|Naveen Sudharsan et.al.|[2502.01797](http://arxiv.org/abs/2502.01797)|null|
 |**2024-12-24**|**AI Meets Natural Hazard Risk: A Nationwide Vulnerability Assessment of Data Centers to Natural Hazards and Power Outages**|Miguel Esparza et.al.|[2501.14760](http://arxiv.org/abs/2501.14760)|null|
