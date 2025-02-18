@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-02-13**|**Moist Vortex Dynamics of Axisymmetric Tropical Cyclones Before Reaching Symmetric Neutrality - Part I: A Generalized Tangential Wind Formula**|Chau-Lam Yu et.al.|[2502.10474](http://arxiv.org/abs/2502.10474)|null|
 |**2025-02-13**|**Warnings based on risk matrices: a coherent framework with consistent evaluation**|Robert J. Taggart et.al.|[2502.08891](http://arxiv.org/abs/2502.08891)|null|
 |**2025-02-02**|**Multi-Hazard Bayesian Hierarchical Model for Damage Prediction**|Mary Lai O. Salvaña et.al.|[2502.00658](http://arxiv.org/abs/2502.00658)|null|
 |**2025-02-01**|**Chinese Historical Documents Reveal Multi-Century Seasonal Shifts in Tropical Cyclone Landfalls**|Gan Zhang et.al.|[2502.00276](http://arxiv.org/abs/2502.00276)|null|
