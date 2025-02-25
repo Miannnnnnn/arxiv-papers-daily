@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
 |**2025-02-13**|**Moist Vortex Dynamics of Axisymmetric Tropical Cyclones Before Reaching Symmetric Neutrality -- Part I: A Generalized Tangential Wind Formula**|Chau-Lam Yu et.al.|[2502.10474](http://arxiv.org/abs/2502.10474)|null|
 |**2025-02-13**|**Warnings based on risk matrices: a coherent framework with consistent evaluation**|Robert J. Taggart et.al.|[2502.08891](http://arxiv.org/abs/2502.08891)|null|
 |**2025-02-02**|**Multi-Hazard Bayesian Hierarchical Model for Damage Prediction**|Mary Lai O. Salvaña et.al.|[2502.00658](http://arxiv.org/abs/2502.00658)|null|
@@ -72,6 +73,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
 |**2025-02-13**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
 |**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338](http://arxiv.org/abs/2502.00338)|**[link](https://github.com/yuangao-yg/oneforecast)**|
 |**2024-12-23**|**TSformer: A Non-autoregressive Spatial-temporal Transformers for 30-day Ocean Eddy-Resolving Forecasting**|Guosong Wang et.al.|[2412.17392](http://arxiv.org/abs/2412.17392)|null|
