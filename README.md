@@ -117,6 +117,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-02-25**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
+|**2025-02-03**|**AirTag, You're It: Reverse Logistics and Last Mile Dynamics**|David Noever et.al.|[2502.17447](http://arxiv.org/abs/2502.17447)|null|
 |**2025-02-12**|**AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**|Jinghua Piao et.al.|[2502.08691](http://arxiv.org/abs/2502.08691)|null|
 |**2025-02-04**|**Building Bridges between Users and Content across Multiple Platforms during Natural Disasters**|Lynnette Hui Xian Ng et.al.|[2502.02681](http://arxiv.org/abs/2502.02681)|null|
 |**2025-02-03**|**Enhancing Near Real Time AI-NWP Hurricane Forecasts: Improving Explainability and Performance Through Physics-Based Models and Land Surface Feedback**|Naveen Sudharsan et.al.|[2502.01797](http://arxiv.org/abs/2502.01797)|null|
