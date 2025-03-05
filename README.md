@@ -73,6 +73,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-01**|**ML-Physical Fusion Models Are Accelerating the Paradigm Shift in Operational Typhoon Forecasting**|Zeyi Niu et.al.|[2503.00424](http://arxiv.org/abs/2503.00424)|null|
 |**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
 |**2025-02-13**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
 |**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338](http://arxiv.org/abs/2502.00338)|**[link](https://github.com/yuangao-yg/oneforecast)**|
@@ -117,6 +118,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-03-04**|**Weakly-Constrained 4D Var for Downscaling with Uncertainty using Data-Driven Surrogate Models**|Philip Dinenis et.al.|[2503.02665](http://arxiv.org/abs/2503.02665)|null|
 |**2025-02-28**|**An analytical solution for horizontal velocity profiles in the hurricane boundary layer**|Kishore R. Sathia et.al.|[2502.21215](http://arxiv.org/abs/2502.21215)|null|
 |**2025-02-25**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
 |**2025-02-03**|**AirTag, You're It: Reverse Logistics and Last Mile Dynamics**|David Noever et.al.|[2502.17447](http://arxiv.org/abs/2502.17447)|null|
