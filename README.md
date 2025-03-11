@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.10</span>
+# Updated on <span style='color:orange;'>2025.03.11</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 <details open>
@@ -28,7 +28,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-02-01**|**Chinese Historical Documents Reveal Multi-Century Seasonal Shifts in Tropical Cyclone Landfalls**|Gan Zhang et.al.|[2502.00276](http://arxiv.org/abs/2502.00276)|null|
 |**2025-01-31**|**Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**|Christopher Subich et.al.|[2501.19374](http://arxiv.org/abs/2501.19374)|null|
 |**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
-|**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
+|**2025-03-08**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-06**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149](http://arxiv.org/abs/2501.00149)|null|
 |**2024-11-27**|**Benchmarking Agility and Reconfigurability in Satellite Systems for Tropical Cyclone Monitoring**|Brycen D. Pearl et.al.|[2411.18317](http://arxiv.org/abs/2411.18317)|null|
 |**2024-11-25**|**ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting**|Yanfei Xiang et.al.|[2411.16807](http://arxiv.org/abs/2411.16807)|**[link](https://github.com/xiangyanfei212/ADAF)**|
@@ -67,7 +67,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2020-12-07**|**Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning**|Trey McNeely et.al.|[2010.05783](http://arxiv.org/abs/2010.05783)|null|
 |**2017-08-22**|**Stacked transfer learning for tropical cyclone intensity prediction**|Ratneel Vikash Deo et.al.|[1708.06539](http://arxiv.org/abs/1708.06539)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Typhoon
 
@@ -101,7 +101,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2023-10-10**|**Photovoltaic grid-forming control strategy investigation using hardware-in-the-loop experiments**|Somesh Bhattacharya et.al.|[2310.06479](http://arxiv.org/abs/2310.06479)|null|
 |**2020-08-11**|**Semantic-based End-to-End Learning for Typhoon Intensity Prediction**|Hamada M. Zahera et.al.|[2003.13779](http://arxiv.org/abs/2003.13779)|**[link](https://github.com/dice-group/joint-model-disaster-prediction)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Estimation
 
@@ -111,7 +111,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-07-07**|**Tropical cyclone intensity estimations over the Indian ocean using Machine Learning**|Koushik Biswas et.al.|[2107.05573](http://arxiv.org/abs/2107.05573)|null|
 |**2020-10-28**|**Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data**|Boyo Chen et.al.|[2010.14977](http://arxiv.org/abs/2010.14977)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Hurricane
 
@@ -175,7 +175,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-05-07**|**Probabilistic Modeling of Hurricane Wind-Induced Damage in Infrastructure Systems**|Derek Chang et.al.|[2105.03497](http://arxiv.org/abs/2105.03497)|null|
 |**2022-09-24**|**Hurricane Forecasting: A Novel Multimodal Machine Learning Framework**|Léonard Boussioux et.al.|[2011.06125](http://arxiv.org/abs/2011.06125)|**[link](https://github.com/leobix/hurricast)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors

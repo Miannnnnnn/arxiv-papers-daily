@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.10</span>
+# Updated on <span style='color:orange;'>2025.03.11</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -22,7 +22,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-02-01**|**Chinese Historical Documents Reveal Multi-Century Seasonal Shifts in Tropical Cyclone Landfalls**|Gan Zhang et.al.|[2502.00276](http://arxiv.org/abs/2502.00276)|null|
 |**2025-01-31**|**Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**|Christopher Subich et.al.|[2501.19374](http://arxiv.org/abs/2501.19374)|null|
 |**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
-|**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
+|**2025-03-08**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-06**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149](http://arxiv.org/abs/2501.00149)|null|
 |**2024-11-27**|**Benchmarking Agility and Reconfigurability in Satellite Systems for Tropical Cyclone Monitoring**|Brycen D. Pearl et.al.|[2411.18317](http://arxiv.org/abs/2411.18317)|null|
 |**2024-11-25**|**ADAF: An Artificial Intelligence Data Assimilation Framework for Weather Forecasting**|Yanfei Xiang et.al.|[2411.16807](http://arxiv.org/abs/2411.16807)|**[link](https://github.com/xiangyanfei212/ADAF)**|
