@@ -107,6 +107,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-03-10**|**"We're losing our neighborhoods. We're losing our community": A comparative analysis of community discourse in online and offline public spheres**|Casey Randazzo et.al.|[2503.07892](http://arxiv.org/abs/2503.07892)|null|
 |**2025-03-10**|**Co-optimization of Short- and Long-term Decisions for the Transmission Grid's Resilience to Flooding**|Ashutosh Shukla et.al.|[2503.06909](http://arxiv.org/abs/2503.06909)|null|
 |**2025-03-04**|**Weakly-Constrained 4D Var for Downscaling with Uncertainty using Data-Driven Surrogate Models**|Philip Dinenis et.al.|[2503.02665](http://arxiv.org/abs/2503.02665)|null|
 |**2025-02-28**|**An analytical solution for horizontal velocity profiles in the hurricane boundary layer**|Kishore R. Sathia et.al.|[2502.21215](http://arxiv.org/abs/2502.21215)|null|
