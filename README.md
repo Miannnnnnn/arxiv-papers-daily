@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-03-12**|**Predicting Tropical Cyclone Track Forecast Errors using a Probabilistic Neural Network**|M. A. Fernandez et.al.|[2503.09840](http://arxiv.org/abs/2503.09840)|null|
 |**2025-03-09**|**Physics-Informed Residual Neural Ordinary Differential Equations for Enhanced Tropical Cyclone Intensity Forecasting**|Fan Meng et.al.|[2503.06436](http://arxiv.org/abs/2503.06436)|null|
 |**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
 |**2025-02-13**|**Moist Vortex Dynamics of Axisymmetric Tropical Cyclones Before Reaching Symmetric Neutrality -- Part I: A Generalized Tangential Wind Formula**|Chau-Lam Yu et.al.|[2502.10474](http://arxiv.org/abs/2502.10474)|null|
@@ -119,6 +120,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-03-12**|**Predicting Tropical Cyclone Track Forecast Errors using a Probabilistic Neural Network**|M. A. Fernandez et.al.|[2503.09840](http://arxiv.org/abs/2503.09840)|null|
 |**2025-03-10**|**"We're losing our neighborhoods. We're losing our community": A comparative analysis of community discourse in online and offline public spheres**|Casey Randazzo et.al.|[2503.07892](http://arxiv.org/abs/2503.07892)|null|
 |**2025-03-10**|**Co-optimization of Short- and Long-term Decisions for the Transmission Grid's Resilience to Flooding**|Ashutosh Shukla et.al.|[2503.06909](http://arxiv.org/abs/2503.06909)|null|
 |**2025-03-04**|**Weakly-Constrained 4D Var for Downscaling with Uncertainty using Data-Driven Surrogate Models**|Philip Dinenis et.al.|[2503.02665](http://arxiv.org/abs/2503.02665)|null|
