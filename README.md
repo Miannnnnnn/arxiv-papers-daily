@@ -124,7 +124,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-03-10**|**"We're losing our neighborhoods. We're losing our community": A comparative analysis of community discourse in online and offline public spheres**|Casey Randazzo et.al.|[2503.07892](http://arxiv.org/abs/2503.07892)|null|
 |**2025-03-10**|**Co-optimization of Short- and Long-term Decisions for the Transmission Grid's Resilience to Flooding**|Ashutosh Shukla et.al.|[2503.06909](http://arxiv.org/abs/2503.06909)|null|
 |**2025-03-04**|**Weakly-Constrained 4D Var for Downscaling with Uncertainty using Data-Driven Surrogate Models**|Philip Dinenis et.al.|[2503.02665](http://arxiv.org/abs/2503.02665)|null|
-|**2025-02-28**|**An analytical solution for horizontal velocity profiles in the hurricane boundary layer**|Kishore R. Sathia et.al.|[2502.21215](http://arxiv.org/abs/2502.21215)|null|
+|**2025-03-17**|**An analytical solution for horizontal velocity profiles in the hurricane boundary layer**|Kishore R. Sathia et.al.|[2502.21215](http://arxiv.org/abs/2502.21215)|null|
 |**2025-02-25**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
 |**2025-02-03**|**AirTag, You're It: Reverse Logistics and Last Mile Dynamics**|David Noever et.al.|[2502.17447](http://arxiv.org/abs/2502.17447)|null|
 |**2025-02-12**|**AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**|Jinghua Piao et.al.|[2502.08691](http://arxiv.org/abs/2502.08691)|null|
