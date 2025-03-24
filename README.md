@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.23</span>
+# Updated on <span style='color:orange;'>2025.03.24</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 <details open>
@@ -69,7 +69,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2020-12-07**|**Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning**|Trey McNeely et.al.|[2010.05783](http://arxiv.org/abs/2010.05783)|null|
 |**2017-08-22**|**Stacked transfer learning for tropical cyclone intensity prediction**|Ratneel Vikash Deo et.al.|[1708.06539](http://arxiv.org/abs/1708.06539)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Typhoon
 
@@ -103,7 +103,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2023-10-10**|**Photovoltaic grid-forming control strategy investigation using hardware-in-the-loop experiments**|Somesh Bhattacharya et.al.|[2310.06479](http://arxiv.org/abs/2310.06479)|null|
 |**2020-08-11**|**Semantic-based End-to-End Learning for Typhoon Intensity Prediction**|Hamada M. Zahera et.al.|[2003.13779](http://arxiv.org/abs/2003.13779)|**[link](https://github.com/dice-group/joint-model-disaster-prediction)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Estimation
 
@@ -113,7 +113,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-07-07**|**Tropical cyclone intensity estimations over the Indian ocean using Machine Learning**|Koushik Biswas et.al.|[2107.05573](http://arxiv.org/abs/2107.05573)|null|
 |**2020-10-28**|**Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data**|Boyo Chen et.al.|[2010.14977](http://arxiv.org/abs/2010.14977)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Hurricane
 
@@ -125,7 +125,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-03-10**|**Co-optimization of Short- and Long-term Decisions for the Transmission Grid's Resilience to Flooding**|Ashutosh Shukla et.al.|[2503.06909](http://arxiv.org/abs/2503.06909)|null|
 |**2025-03-04**|**Weakly-Constrained 4D Var for Downscaling with Uncertainty using Data-Driven Surrogate Models**|Philip Dinenis et.al.|[2503.02665](http://arxiv.org/abs/2503.02665)|null|
 |**2025-03-17**|**An analytical solution for horizontal velocity profiles in the hurricane boundary layer**|Kishore R. Sathia et.al.|[2502.21215](http://arxiv.org/abs/2502.21215)|null|
-|**2025-02-25**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
+|**2025-03-21**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
 |**2025-02-03**|**AirTag, You're It: Reverse Logistics and Last Mile Dynamics**|David Noever et.al.|[2502.17447](http://arxiv.org/abs/2502.17447)|null|
 |**2025-02-12**|**AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society**|Jinghua Piao et.al.|[2502.08691](http://arxiv.org/abs/2502.08691)|null|
 |**2025-02-04**|**Building Bridges between Users and Content across Multiple Platforms during Natural Disasters**|Lynnette Hui Xian Ng et.al.|[2502.02681](http://arxiv.org/abs/2502.02681)|null|
@@ -180,7 +180,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-05-07**|**Probabilistic Modeling of Hurricane Wind-Induced Damage in Infrastructure Systems**|Derek Chang et.al.|[2105.03497](http://arxiv.org/abs/2105.03497)|null|
 |**2022-09-24**|**Hurricane Forecasting: A Novel Multimodal Machine Learning Framework**|Léonard Boussioux et.al.|[2011.06125](http://arxiv.org/abs/2011.06125)|**[link](https://github.com/leobix/hurricast)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
