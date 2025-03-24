@@ -108,6 +108,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-03-21**|**Uncovering cooling center usage as an adaptation strategy for hurricane-blackout-heat compound hazards during Hurricane Beryl (2024)**|Tianle Duan et.al.|[2503.17292](http://arxiv.org/abs/2503.17292)|null|
 |**2025-03-12**|**Predicting Tropical Cyclone Track Forecast Errors using a Probabilistic Neural Network**|M. A. Fernandez et.al.|[2503.09840](http://arxiv.org/abs/2503.09840)|null|
 |**2025-03-10**|**"We're losing our neighborhoods. We're losing our community": A comparative analysis of community discourse in online and offline public spheres**|Casey Randazzo et.al.|[2503.07892](http://arxiv.org/abs/2503.07892)|null|
 |**2025-03-10**|**Co-optimization of Short- and Long-term Decisions for the Transmission Grid's Resilience to Flooding**|Ashutosh Shukla et.al.|[2503.06909](http://arxiv.org/abs/2503.06909)|null|
