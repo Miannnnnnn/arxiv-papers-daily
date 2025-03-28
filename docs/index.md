@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.27</span>
+# Updated on <span style='color:orange;'>2025.03.28</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -69,7 +69,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-01**|**ML-Physical Fusion Models Are Accelerating the Paradigm Shift in Operational Typhoon Forecasting**|Zeyi Niu et.al.|[2503.00424](http://arxiv.org/abs/2503.00424)|null|
 |**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
-|**2025-02-13**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
+|**2025-03-27**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
 |**2025-02-01**|**OneForecast: A Universal Framework for Global and Regional Weather Forecasting**|Yuan Gao et.al.|[2502.00338](http://arxiv.org/abs/2502.00338)|**[link](https://github.com/yuangao-yg/oneforecast)**|
 |**2024-12-23**|**TSformer: A Non-autoregressive Spatial-temporal Transformers for 30-day Ocean Eddy-Resolving Forecasting**|Guosong Wang et.al.|[2412.17392](http://arxiv.org/abs/2412.17392)|null|
 |**2024-12-19**|**Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models**|Kunat Pipatanakul et.al.|[2412.13702](http://arxiv.org/abs/2412.13702)|**[link](https://github.com/scb-10x/typhoon2-audio)**|
