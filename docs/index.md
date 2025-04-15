@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-04-12**|**NWP-based deep learning for tropical cyclone intensity prediction**|Chanh Kieu et.al.|[2504.09143](http://arxiv.org/abs/2504.09143)|null|
 |**2025-04-10**|**A GPU-accelerated simulation of rapid intensification of a tropical cyclone with observed heating**|Soonpil Kang et.al.|[2504.08157](http://arxiv.org/abs/2504.08157)|null|
 |**2025-04-10**|**ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method**|Dongqi Fu et.al.|[2504.07394](http://arxiv.org/abs/2504.07394)|**[link](https://github.com/idea-isail-lab-uiuc/climatebench-m)**|
 |**2025-03-31**|**Near-surface coherent structures in an intense tropical cyclone: conditional eddies and vertical momentum fluxes**|Chibueze N. Oguejiofor et.al.|[2504.00293](http://arxiv.org/abs/2504.00293)|null|
@@ -111,6 +112,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-04-12**|**Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models**|Yifan Yang et.al.|[2504.09066](http://arxiv.org/abs/2504.09066)|null|
 |**2025-04-05**|**Multi-resolution Score-Based Variational Graphical Diffusion for Causal Disaster System Modeling and Inference**|Xuechun Li et.al.|[2504.04015](http://arxiv.org/abs/2504.04015)|null|
 |**2025-04-04**|**Magnetized ICF implosions: ignition at low laser energy using designs with more ablator mass remaining**|C. A. Walsh et.al.|[2504.03919](http://arxiv.org/abs/2504.03919)|null|
 |**2025-04-07**|**Risk-Prone and Risk-Averse Behavior in Natural Emergencies: An Appraisal Theory Approach**|Sorin Adam Matei et.al.|[2503.21953](http://arxiv.org/abs/2503.21953)|null|
