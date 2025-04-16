@@ -112,6 +112,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-04-15**|**An Application of Membrane Computing to Humanitarian Relief via Generalized Nash Equilibrium**|Alejandro Luque-Cerpa et.al.|[2504.11149](http://arxiv.org/abs/2504.11149)|null|
 |**2025-04-12**|**Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models**|Yifan Yang et.al.|[2504.09066](http://arxiv.org/abs/2504.09066)|null|
 |**2025-04-05**|**Multi-resolution Score-Based Variational Graphical Diffusion for Causal Disaster System Modeling and Inference**|Xuechun Li et.al.|[2504.04015](http://arxiv.org/abs/2504.04015)|null|
 |**2025-04-04**|**Magnetized ICF implosions: ignition at low laser energy using designs with more ablator mass remaining**|C. A. Walsh et.al.|[2504.03919](http://arxiv.org/abs/2504.03919)|null|
