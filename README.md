@@ -124,6 +124,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-04-20**|**Invariance-embedded Machine Learning Sub-grid-scale Stress Models for Meso-scale Hurricane Boundary Layer Flow Simulation I: Model Development and $\textit{a priori}$ Studies**|Md Badrul Hasan et.al.|[2504.14473](http://arxiv.org/abs/2504.14473)|null|
+|**2025-04-11**|**Modeling the quantum-like dynamics of human reliability ratings in Human-AI interactions by interaction dependent Hamiltonians**|Johan van der Meer et.al.|[2504.13918](http://arxiv.org/abs/2504.13918)|null|
 |**2025-04-19**|**Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**|Kooshan Amini et.al.|[2504.12542](http://arxiv.org/abs/2504.12542)|null|
 |**2025-04-15**|**DamageCAT: A Deep Learning Transformer Framework for Typology-Based Post-Disaster Building Damage Categorization**|Yiming Xiao et.al.|[2504.11637](http://arxiv.org/abs/2504.11637)|null|
 |**2025-04-15**|**An Application of Membrane Computing to Humanitarian Relief via Generalized Nash Equilibrium**|Alejandro Luque-Cerpa et.al.|[2504.11149](http://arxiv.org/abs/2504.11149)|null|
