@@ -80,6 +80,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions**|Zeyi Niu et.al.|[2504.20852](http://arxiv.org/abs/2504.20852)|null|
 |**2025-03-01**|**ML-Physical Fusion Models Are Accelerating the Paradigm Shift in Operational Typhoon Forecasting**|Zeyi Niu et.al.|[2503.00424](http://arxiv.org/abs/2503.00424)|null|
 |**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
 |**2025-03-27**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
