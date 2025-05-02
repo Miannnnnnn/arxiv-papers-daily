@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495](http://arxiv.org/abs/2505.00495)|null|
 |**2025-04-23**|**Situational Preparedness Dynamics for Sequential Tropical Cyclone Hazards**|Tianle Duan et.al.|[2504.16878](http://arxiv.org/abs/2504.16878)|null|
 |**2025-04-12**|**NWP-based deep learning for tropical cyclone intensity prediction**|Chanh Kieu et.al.|[2504.09143](http://arxiv.org/abs/2504.09143)|null|
 |**2025-04-10**|**A GPU-accelerated simulation of rapid intensification of a tropical cyclone with observed heating**|Soonpil Kang et.al.|[2504.08157](http://arxiv.org/abs/2504.08157)|null|
