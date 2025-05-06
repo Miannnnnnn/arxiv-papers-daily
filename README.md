@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-04-30**|**Seasonal Prediction with Neural GCM and Simplified Boundary Forcings: Large-scale Atmospheric Variability and Tropical Cyclone Activity**|Gan Zhang et.al.|[2505.01455](http://arxiv.org/abs/2505.01455)|null|
 |**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495](http://arxiv.org/abs/2505.00495)|null|
 |**2025-04-23**|**Situational Preparedness Dynamics for Sequential Tropical Cyclone Hazards**|Tianle Duan et.al.|[2504.16878](http://arxiv.org/abs/2504.16878)|null|
 |**2025-04-12**|**NWP-based deep learning for tropical cyclone intensity prediction**|Chanh Kieu et.al.|[2504.09143](http://arxiv.org/abs/2504.09143)|null|
@@ -127,6 +128,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-05-05**|**Roadmap for warm dense matter physics**|Jan Vorberger et.al.|[2505.02494](http://arxiv.org/abs/2505.02494)|null|
 |**2025-05-01**|**A Novel Dynamic Bias-Correction Framework for Hurricane Risk Assessment under Climate Change**|Reda Snaiki et.al.|[2505.00832](http://arxiv.org/abs/2505.00832)|null|
 |**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942](http://arxiv.org/abs/2504.15942)|null|
 |**2025-04-20**|**Invariance-embedded Machine Learning Sub-grid-scale Stress Models for Meso-scale Hurricane Boundary Layer Flow Simulation I: Model Development and $\textit{a priori}$ Studies**|Md Badrul Hasan et.al.|[2504.14473](http://arxiv.org/abs/2504.14473)|null|
