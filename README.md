@@ -85,6 +85,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
+|**2025-05-14**|**Instant AoI Optimization through Relay Location Selection in Disaster Multi-hop Communication**|Yang Gao et.al.|[2505.09386](http://arxiv.org/abs/2505.09386)|null|
 |**2025-04-29**|**Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions**|Zeyi Niu et.al.|[2504.20852](http://arxiv.org/abs/2504.20852)|null|
 |**2025-03-01**|**ML-Physical Fusion Models Are Accelerating the Paradigm Shift in Operational Typhoon Forecasting**|Zeyi Niu et.al.|[2503.00424](http://arxiv.org/abs/2503.00424)|null|
 |**2025-02-22**|**AI Models Still Lag Behind Traditional Numerical Models in Predicting Sudden-Turning Typhoons**|Daosheng Xu et.al.|[2502.16036](http://arxiv.org/abs/2502.16036)|null|
