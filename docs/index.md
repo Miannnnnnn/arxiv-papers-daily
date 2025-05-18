@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.05.17</span>
+# Updated on <span style='color:orange;'>2025.05.18</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -17,7 +17,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
 |**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|null|
-|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|null|
+|**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|**[link](https://github.com/NVlabs/cBottle)**|
 |**2025-04-30**|**Seasonal Prediction with Neural GCM and Simplified Boundary Forcings: Large-scale Atmospheric Variability and Tropical Cyclone Activity**|Gan Zhang et.al.|[2505.01455](http://arxiv.org/abs/2505.01455)|null|
 |**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495](http://arxiv.org/abs/2505.00495)|null|
 |**2025-04-23**|**Situational Preparedness Dynamics for Sequential Tropical Cyclone Hazards**|Tianle Duan et.al.|[2504.16878](http://arxiv.org/abs/2504.16878)|null|
@@ -129,7 +129,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-04-20**|**Invariance-embedded Machine Learning Sub-grid-scale Stress Models for Meso-scale Hurricane Boundary Layer Flow Simulation I: Model Development and $\textit{a priori}$ Studies**|Md Badrul Hasan et.al.|[2504.14473](http://arxiv.org/abs/2504.14473)|null|
 |**2025-04-11**|**Modeling the quantum-like dynamics of human reliability ratings in Human-AI interactions by interaction dependent Hamiltonians**|Johan van der Meer et.al.|[2504.13918](http://arxiv.org/abs/2504.13918)|null|
 |**2025-04-19**|**Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**|Kooshan Amini et.al.|[2504.12542](http://arxiv.org/abs/2504.12542)|null|
-|**2025-04-15**|**DamageCAT: A Deep Learning Transformer Framework for Typology-Based Post-Disaster Building Damage Categorization**|Yiming Xiao et.al.|[2504.11637](http://arxiv.org/abs/2504.11637)|null|
+|**2025-04-15**|**DamageCAT: A Deep Learning Transformer Framework for Typology-Based Post-Disaster Building Damage Categorization**|Yiming Xiao et.al.|[2504.11637](http://arxiv.org/abs/2504.11637)|**[link](https://github.com/YimingXiao98/DamageCAT)**|
 |**2025-04-15**|**An Application of Membrane Computing to Humanitarian Relief via Generalized Nash Equilibrium**|Alejandro Luque-Cerpa et.al.|[2504.11149](http://arxiv.org/abs/2504.11149)|null|
 |**2025-04-12**|**Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models**|Yifan Yang et.al.|[2504.09066](http://arxiv.org/abs/2504.09066)|null|
 |**2025-04-05**|**Multi-resolution Score-Based Variational Graphical Diffusion for Causal Disaster System Modeling and Inference**|Xuechun Li et.al.|[2504.04015](http://arxiv.org/abs/2504.04015)|**[link](https://github.com/PaperSubmissionFinal/KDD2025)**|
