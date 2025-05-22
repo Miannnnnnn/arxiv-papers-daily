@@ -33,7 +33,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-02-13**|**Warnings based on risk matrices: a coherent framework with consistent evaluation**|Robert J. Taggart et.al.|[2502.08891](http://arxiv.org/abs/2502.08891)|null|
 |**2025-02-02**|**Multi-Hazard Bayesian Hierarchical Model for Damage Prediction**|Mary Lai O. Salvaña et.al.|[2502.00658](http://arxiv.org/abs/2502.00658)|null|
 |**2025-02-01**|**Chinese Historical Documents Reveal Multi-Century Seasonal Shifts in Tropical Cyclone Landfalls**|Gan Zhang et.al.|[2502.00276](http://arxiv.org/abs/2502.00276)|null|
-|**2025-01-31**|**Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**|Christopher Subich et.al.|[2501.19374](http://arxiv.org/abs/2501.19374)|null|
+|**2025-01-31**|**Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function**|Christopher Subich et.al.|[2501.19374](http://arxiv.org/abs/2501.19374)|**[link](https://github.com/csubich/graphcast)**|
 |**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
 |**2025-03-18**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-06**|**LASSE: Learning Active Sampling for Storm Tide Extremes in Non-Stationary Climate Regimes**|Grace Jiang et.al.|[2501.00149](http://arxiv.org/abs/2501.00149)|null|
@@ -44,7 +44,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2024-10-28**|**Accelerating Simulations of Tropical Cyclones using Adaptive Mesh Refinement**|Yassine Tissaoui et.al.|[2410.21607](http://arxiv.org/abs/2410.21607)|null|
 |**2024-10-22**|**Can AI weather models predict out-of-distribution gray swan tropical cyclones?**|Y. Qiang Sun et.al.|[2410.14932](http://arxiv.org/abs/2410.14932)|**[link](https://github.com/envfluids/FourCastNet)**|
 |**2024-10-11**|**On the possible role of condensation-related hydrostatic pressure adjustments in intensification and weakening of tropical cyclones**|Anastassia M. Makarieva et.al.|[2410.14717](http://arxiv.org/abs/2410.14717)|null|
-|**2024-10-17**|**TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness**|Cheng Huang et.al.|[2410.13175](http://arxiv.org/abs/2410.13175)|null|
+|**2024-10-17**|**TCP-Diffusion: A Multi-modal Diffusion Model for Global Tropical Cyclone Precipitation Forecasting with Change Awareness**|Cheng Huang et.al.|[2410.13175](http://arxiv.org/abs/2410.13175)|**[link](https://github.com/Zjut-MultimediaPlus/TCP-Diffusion)**|
 |**2024-09-25**|**A Visual-Analytical Approach for Automatic Detection of Cyclonic Events in Satellite Observations**|Akash Agrawal et.al.|[2410.08218](http://arxiv.org/abs/2410.08218)|null|
 |**2024-10-07**|**Bound on forecasting skill for models of North Atlantic tropical cyclone counts**|Daniel Wesley et.al.|[2410.05503](http://arxiv.org/abs/2410.05503)|null|
 |**2024-10-05**|**El Nino Southern Oscillation and Atlantic Multidecadal Oscillation Impact on Hurricanes North Atlantic Basin**|Suchit Basineni et.al.|[2410.05329](http://arxiv.org/abs/2410.05329)|null|
