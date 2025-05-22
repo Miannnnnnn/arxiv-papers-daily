@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
 |**2025-05-20**|**A Bayesian Network Method for Deaggregation: Identification of Tropical Cyclones Driving Coastal Hazards**|Ziyue Liu et.al.|[2505.14374](http://arxiv.org/abs/2505.14374)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
 |**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|null|
