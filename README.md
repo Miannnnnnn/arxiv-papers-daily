@@ -136,6 +136,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-05-25**|**RoofNet: A Global Multimodal Dataset for Roof Material Classification**|Noelle Law et.al.|[2505.19358](http://arxiv.org/abs/2505.19358)|null|
 |**2025-05-20**|**Keeping in Place After the Storm-Emergency Assistance and Evictions**|Bilal Islah et.al.|[2505.14548](http://arxiv.org/abs/2505.14548)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
 |**2025-05-12**|**Now you see it, Now you don't: Damage Label Agreement in Drone & Satellite Post-Disaster Imagery**|Thomas Manzini et.al.|[2505.08117](http://arxiv.org/abs/2505.08117)|**[link](https://github.com/TManzini/NowYouSeeItNowYouDont)**|
