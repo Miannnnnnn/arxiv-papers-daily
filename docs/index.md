@@ -79,6 +79,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**The TYPHOON Stellar Population Synthesis Survey. II. Pushing Full Spectral Fitting to the Limit in the Nearby Grand Design Barred Spiral M83**|Eva Sextl et.al.|[2505.21127](http://arxiv.org/abs/2505.21127)|null|
 |**2025-05-23**|**CT-OT Flow: Estimating Continuous-Time Dynamics from Discrete Temporal Snapshots**|Keisuke Kawano et.al.|[2505.17354](http://arxiv.org/abs/2505.17354)|null|
 |**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
 |**2025-05-14**|**Instant AoI Optimization through Relay Location Selection in Disaster Multi-hop Communication**|Yang Gao et.al.|[2505.09386](http://arxiv.org/abs/2505.09386)|**[link](https://github.com/hbkhhh619315/relaylocation)**|
