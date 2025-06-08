@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.07</span>
+# Updated on <span style='color:orange;'>2025.06.08</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 <details open>
@@ -24,7 +24,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
 |**2025-05-20**|**A Bayesian Network Method for Deaggregation: Identification of Tropical Cyclones Driving Coastal Hazards**|Ziyue Liu et.al.|[2505.14374](http://arxiv.org/abs/2505.14374)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
-|**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|null|
+|**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|**[link](https://github.com/zhaoshan2/earthextreme-bench)**|
 |**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|**[link](https://github.com/NVlabs/cBottle)**|
 |**2025-04-30**|**Seasonal Prediction with Neural GCM and Simplified Boundary Forcings: Large-scale Atmospheric Variability and Tropical Cyclone Activity**|Gan Zhang et.al.|[2505.01455](http://arxiv.org/abs/2505.01455)|null|
 |**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495](http://arxiv.org/abs/2505.00495)|null|
@@ -81,7 +81,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2020-12-07**|**Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning**|Trey McNeely et.al.|[2010.05783](http://arxiv.org/abs/2010.05783)|null|
 |**2017-08-22**|**Stacked transfer learning for tropical cyclone intensity prediction**|Ratneel Vikash Deo et.al.|[1708.06539](http://arxiv.org/abs/1708.06539)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Typhoon
 
@@ -120,7 +120,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2023-10-10**|**Photovoltaic grid-forming control strategy investigation using hardware-in-the-loop experiments**|Somesh Bhattacharya et.al.|[2310.06479](http://arxiv.org/abs/2310.06479)|null|
 |**2020-08-11**|**Semantic-based End-to-End Learning for Typhoon Intensity Prediction**|Hamada M. Zahera et.al.|[2003.13779](http://arxiv.org/abs/2003.13779)|**[link](https://github.com/dice-group/joint-model-disaster-prediction)**|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Estimation
 
@@ -130,7 +130,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-07-07**|**Tropical cyclone intensity estimations over the Indian ocean using Machine Learning**|Koushik Biswas et.al.|[2107.05573](http://arxiv.org/abs/2107.05573)|null|
 |**2020-10-28**|**Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data**|Boyo Chen et.al.|[2010.14977](http://arxiv.org/abs/2010.14977)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 ## Hurricane
 
@@ -143,7 +143,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-05-12**|**Now you see it, Now you don't: Damage Label Agreement in Drone & Satellite Post-Disaster Imagery**|Thomas Manzini et.al.|[2505.08117](http://arxiv.org/abs/2505.08117)|**[link](https://github.com/TManzini/NowYouSeeItNowYouDont)**|
 |**2025-05-05**|**Roadmap for warm dense matter physics**|Jan Vorberger et.al.|[2505.02494](http://arxiv.org/abs/2505.02494)|null|
 |**2025-05-01**|**A Novel Dynamic Bias-Correction Framework for Hurricane Risk Assessment under Climate Change**|Reda Snaiki et.al.|[2505.00832](http://arxiv.org/abs/2505.00832)|null|
-|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942](http://arxiv.org/abs/2504.15942)|null|
+|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942](http://arxiv.org/abs/2504.15942)|**[link](https://github.com/mlsec-group/adversarial-observations)**|
 |**2025-04-20**|**Invariance-embedded Machine Learning Sub-grid-scale Stress Models for Meso-scale Hurricane Boundary Layer Flow Simulation I: Model Development and $\textit{a priori}$ Studies**|Md Badrul Hasan et.al.|[2504.14473](http://arxiv.org/abs/2504.14473)|null|
 |**2025-04-11**|**Modeling the quantum-like dynamics of human reliability ratings in Human-AI interactions by interaction dependent Hamiltonians**|Johan van der Meer et.al.|[2504.13918](http://arxiv.org/abs/2504.13918)|null|
 |**2025-04-19**|**Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**|Kooshan Amini et.al.|[2504.12542](http://arxiv.org/abs/2504.12542)|null|
@@ -216,7 +216,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-05-07**|**Probabilistic Modeling of Hurricane Wind-Induced Damage in Infrastructure Systems**|Derek Chang et.al.|[2105.03497](http://arxiv.org/abs/2105.03497)|null|
 |**2022-09-24**|**Hurricane Forecasting: A Novel Multimodal Machine Learning Framework**|Léonard Boussioux et.al.|[2011.06125](http://arxiv.org/abs/2011.06125)|**[link](https://github.com/leobix/hurricast)**|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.07</span>
+# Updated on <span style='color:orange;'>2025.06.08</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -18,7 +18,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
 |**2025-05-20**|**A Bayesian Network Method for Deaggregation: Identification of Tropical Cyclones Driving Coastal Hazards**|Ziyue Liu et.al.|[2505.14374](http://arxiv.org/abs/2505.14374)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
-|**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|null|
+|**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|**[link](https://github.com/zhaoshan2/earthextreme-bench)**|
 |**2025-05-10**|**Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere**|Noah D. Brenowitz et.al.|[2505.06474](http://arxiv.org/abs/2505.06474)|**[link](https://github.com/NVlabs/cBottle)**|
 |**2025-04-30**|**Seasonal Prediction with Neural GCM and Simplified Boundary Forcings: Large-scale Atmospheric Variability and Tropical Cyclone Activity**|Gan Zhang et.al.|[2505.01455](http://arxiv.org/abs/2505.01455)|null|
 |**2025-05-01**|**Enhancing Tropical Cyclone Path Forecasting with an Improved Transformer Network**|Nguyen Van Thanh et.al.|[2505.00495](http://arxiv.org/abs/2505.00495)|null|
@@ -131,7 +131,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-05-12**|**Now you see it, Now you don't: Damage Label Agreement in Drone & Satellite Post-Disaster Imagery**|Thomas Manzini et.al.|[2505.08117](http://arxiv.org/abs/2505.08117)|**[link](https://github.com/TManzini/NowYouSeeItNowYouDont)**|
 |**2025-05-05**|**Roadmap for warm dense matter physics**|Jan Vorberger et.al.|[2505.02494](http://arxiv.org/abs/2505.02494)|null|
 |**2025-05-01**|**A Novel Dynamic Bias-Correction Framework for Hurricane Risk Assessment under Climate Change**|Reda Snaiki et.al.|[2505.00832](http://arxiv.org/abs/2505.00832)|null|
-|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942](http://arxiv.org/abs/2504.15942)|null|
+|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942](http://arxiv.org/abs/2504.15942)|**[link](https://github.com/mlsec-group/adversarial-observations)**|
 |**2025-04-20**|**Invariance-embedded Machine Learning Sub-grid-scale Stress Models for Meso-scale Hurricane Boundary Layer Flow Simulation I: Model Development and $\textit{a priori}$ Studies**|Md Badrul Hasan et.al.|[2504.14473](http://arxiv.org/abs/2504.14473)|null|
 |**2025-04-11**|**Modeling the quantum-like dynamics of human reliability ratings in Human-AI interactions by interaction dependent Hamiltonians**|Johan van der Meer et.al.|[2504.13918](http://arxiv.org/abs/2504.13918)|null|
 |**2025-04-19**|**Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**|Kooshan Amini et.al.|[2504.12542](http://arxiv.org/abs/2504.12542)|null|
