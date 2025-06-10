@@ -21,6 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-06-07**|**Meteorologically-Informed Adaptive Conformal Prediction for Tropical Cyclone Intensity Forecasting**|Xuepeng Chen et.al.|[2506.06638](http://arxiv.org/abs/2506.06638)|null|
 |**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
 |**2025-05-20**|**A Bayesian Network Method for Deaggregation: Identification of Tropical Cyclones Driving Coastal Hazards**|Ziyue Liu et.al.|[2505.14374](http://arxiv.org/abs/2505.14374)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
@@ -137,6 +138,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|null|
+|**2025-06-06**|**Evaluating Undergrounding Decisions for Wildfire Ignition Risk Mitigation across Multiple Hazards**|Ryan Piansky et.al.|[2506.06575](http://arxiv.org/abs/2506.06575)|null|
 |**2025-05-25**|**RoofNet: A Global Multimodal Dataset for Roof Material Classification**|Noelle Law et.al.|[2505.19358](http://arxiv.org/abs/2505.19358)|null|
 |**2025-05-20**|**Keeping in Place After the Storm-Emergency Assistance and Evictions**|Bilal Islah et.al.|[2505.14548](http://arxiv.org/abs/2505.14548)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
