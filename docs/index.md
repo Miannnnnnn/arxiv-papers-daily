@@ -126,6 +126,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-06-09**|**Imposing the Fundamental Dynamical Constraint of Hydrostatic Balance to Improve Global ML Weather Prediction**|Akshay Subramaniam et.al.|[2506.08285](http://arxiv.org/abs/2506.08285)|null|
 |**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|null|
 |**2025-06-06**|**Evaluating Undergrounding Decisions for Wildfire Ignition Risk Mitigation across Multiple Hazards**|Ryan Piansky et.al.|[2506.06575](http://arxiv.org/abs/2506.06575)|null|
 |**2025-05-25**|**RoofNet: A Global Multimodal Dataset for Roof Material Classification**|Noelle Law et.al.|[2505.19358](http://arxiv.org/abs/2505.19358)|null|
