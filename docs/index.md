@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.12</span>
+# Updated on <span style='color:orange;'>2025.06.13</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -15,7 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
-|**2025-05-25**|**Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial**|Jingyang Wu et.al.|[2506.09254](http://arxiv.org/abs/2506.09254)|null|
+|**2025-06-12**|**Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial**|Jingyang Wu et.al.|[2506.09254](http://arxiv.org/abs/2506.09254)|null|
 |**2025-06-10**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
 |**2025-06-07**|**Meteorologically-Informed Adaptive Conformal Prediction for Tropical Cyclone Intensity Forecasting**|Xuepeng Chen et.al.|[2506.06638](http://arxiv.org/abs/2506.06638)|null|
 |**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
