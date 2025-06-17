@@ -129,6 +129,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-06-15**|**Towards NoahMP-AI: Enhancing Land Surface Model Prediction with Deep Learning**|Mahmoud Mbarak et.al.|[2506.12919](http://arxiv.org/abs/2506.12919)|null|
 |**2025-06-13**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
 |**2025-06-09**|**Imposing the Fundamental Dynamical Constraint of Hydrostatic Balance to Improve Global ML Weather Prediction**|Akshay Subramaniam et.al.|[2506.08285](http://arxiv.org/abs/2506.08285)|null|
 |**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|**[link](https://github.com/violayhho/flood-damagesense)**|
