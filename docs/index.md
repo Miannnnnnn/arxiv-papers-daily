@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-06-16**|**Projecting U.S. coastal storm surge risks and impacts with deep learning**|Julian R. Rice et.al.|[2506.13963](http://arxiv.org/abs/2506.13963)|null|
 |**2025-06-12**|**Skillful joint probabilistic weather forecasting from marginals**|Ferran Alet et.al.|[2506.10772](http://arxiv.org/abs/2506.10772)|null|
 |**2025-06-12**|**Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial**|Jingyang Wu et.al.|[2506.09254](http://arxiv.org/abs/2506.09254)|null|
 |**2025-06-13**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
