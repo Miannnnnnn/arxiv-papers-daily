@@ -15,6 +15,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2007-04-12**|**Tropical Cyclone Forecasting Applications of the GOES WMSI**|Kenneth Pryor et.al.|[physics/0604070](http://arxiv.org/abs/physics/0604070)|null|
+|**2025-06-23**|**Filtrations Indexed by Attracting Levels and their Applications**|Yusuke Imoto et.al.|[2506.18250](http://arxiv.org/abs/2506.18250)|null|
 |**2025-06-16**|**Projecting U.S. coastal storm surge risks and impacts with deep learning**|Julian R. Rice et.al.|[2506.13963](http://arxiv.org/abs/2506.13963)|null|
 |**2025-06-12**|**Skillful joint probabilistic weather forecasting from marginals**|Ferran Alet et.al.|[2506.10772](http://arxiv.org/abs/2506.10772)|null|
 |**2025-06-12**|**Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial**|Jingyang Wu et.al.|[2506.09254](http://arxiv.org/abs/2506.09254)|null|
@@ -84,6 +85,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-21**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-05-27**|**PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series**|Haobo Li et.al.|[2506.14786](http://arxiv.org/abs/2506.14786)|null|
 |**2025-05-27**|**The TYPHOON Stellar Population Synthesis Survey. II. Pushing Full Spectral Fitting to the Limit in the Nearby Grand Design Barred Spiral M83**|Eva Sextl et.al.|[2505.21127](http://arxiv.org/abs/2505.21127)|null|
 |**2025-05-23**|**CT-OT Flow: Estimating Continuous-Time Dynamics from Discrete Temporal Snapshots**|Keisuke Kawano et.al.|[2505.17354](http://arxiv.org/abs/2505.17354)|null|
@@ -131,6 +133,8 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-06-22**|**Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses**|Bolin Shen et.al.|[2506.17964](http://arxiv.org/abs/2506.17964)|null|
+|**2025-06-21**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-06-18**|**Challenges and Research Directions from the Operational Use of a Machine Learning Damage Assessment System via Small Uncrewed Aerial Systems at Hurricanes Debby and Helene**|Thomas Manzini et.al.|[2506.15890](http://arxiv.org/abs/2506.15890)|null|
 |**2025-06-15**|**Towards NoahMP-AI: Enhancing Land Surface Model Prediction with Deep Learning**|Mahmoud Mbarak et.al.|[2506.12919](http://arxiv.org/abs/2506.12919)|null|
 |**2025-06-13**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
