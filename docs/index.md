@@ -133,6 +133,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-06-10**|**Hurricane Impact Index for Assessing Direct and Indirect Hazards in Central America**|Manrique Camacho et.al.|[2506.19858](http://arxiv.org/abs/2506.19858)|null|
 |**2025-06-22**|**Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses**|Bolin Shen et.al.|[2506.17964](http://arxiv.org/abs/2506.17964)|null|
 |**2025-06-21**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-06-18**|**Challenges and Research Directions from the Operational Use of a Machine Learning Damage Assessment System via Small Uncrewed Aerial Systems at Hurricanes Debby and Helene**|Thomas Manzini et.al.|[2506.15890](http://arxiv.org/abs/2506.15890)|null|
