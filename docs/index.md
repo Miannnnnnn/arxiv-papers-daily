@@ -85,6 +85,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity**|Michael Lanier et.al.|[2506.21688](http://arxiv.org/abs/2506.21688)|null|
 |**2025-06-21**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-05-27**|**PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series**|Haobo Li et.al.|[2506.14786](http://arxiv.org/abs/2506.14786)|null|
 |**2025-05-27**|**The TYPHOON Stellar Population Synthesis Survey. II. Pushing Full Spectral Fitting to the Limit in the Nearby Grand Design Barred Spiral M83**|Eva Sextl et.al.|[2505.21127](http://arxiv.org/abs/2505.21127)|null|
