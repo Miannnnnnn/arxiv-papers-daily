@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.30</span>
+# Updated on <span style='color:orange;'>2025.07.01</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -86,7 +86,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-26**|**CyGym: A Simulation-Based Game-Theoretic Analysis Framework for Cybersecurity**|Michael Lanier et.al.|[2506.21688](http://arxiv.org/abs/2506.21688)|null|
-|**2025-06-21**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
+|**2025-06-29**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-05-27**|**PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series**|Haobo Li et.al.|[2506.14786](http://arxiv.org/abs/2506.14786)|null|
 |**2025-05-27**|**The TYPHOON Stellar Population Synthesis Survey. II. Pushing Full Spectral Fitting to the Limit in the Nearby Grand Design Barred Spiral M83**|Eva Sextl et.al.|[2505.21127](http://arxiv.org/abs/2505.21127)|null|
 |**2025-05-23**|**CT-OT Flow: Estimating Continuous-Time Dynamics from Discrete Temporal Snapshots**|Keisuke Kawano et.al.|[2505.17354](http://arxiv.org/abs/2505.17354)|null|
@@ -136,7 +136,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
 |**2025-06-10**|**Hurricane Impact Index for Assessing Direct and Indirect Hazards in Central America**|Manrique Camacho et.al.|[2506.19858](http://arxiv.org/abs/2506.19858)|null|
 |**2025-06-22**|**Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses**|Bolin Shen et.al.|[2506.17964](http://arxiv.org/abs/2506.17964)|null|
-|**2025-06-21**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
+|**2025-06-29**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-06-18**|**Challenges and Research Directions from the Operational Use of a Machine Learning Damage Assessment System via Small Uncrewed Aerial Systems at Hurricanes Debby and Helene**|Thomas Manzini et.al.|[2506.15890](http://arxiv.org/abs/2506.15890)|null|
 |**2025-06-15**|**Towards NoahMP-AI: Enhancing Land Surface Model Prediction with Deep Learning**|Mahmoud Mbarak et.al.|[2506.12919](http://arxiv.org/abs/2506.12919)|**[link](https://github.com/NCAR/noahmp)**|
 |**2025-06-13**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
