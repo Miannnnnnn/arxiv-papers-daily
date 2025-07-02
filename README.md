@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.07.01</span>
+# Updated on <span style='color:orange;'>2025.07.02</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 <details open>
@@ -87,7 +87,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2020-12-07**|**Structural Forecasting for Tropical Cyclone Intensity Prediction: Providing Insight with Deep Learning**|Trey McNeely et.al.|[2010.05783](http://arxiv.org/abs/2010.05783)|null|
 |**2017-08-22**|**Stacked transfer learning for tropical cyclone intensity prediction**|Ratneel Vikash Deo et.al.|[1708.06539](http://arxiv.org/abs/1708.06539)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Typhoon
 
@@ -129,7 +129,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2023-10-10**|**Photovoltaic grid-forming control strategy investigation using hardware-in-the-loop experiments**|Somesh Bhattacharya et.al.|[2310.06479](http://arxiv.org/abs/2310.06479)|null|
 |**2020-08-11**|**Semantic-based End-to-End Learning for Typhoon Intensity Prediction**|Hamada M. Zahera et.al.|[2003.13779](http://arxiv.org/abs/2003.13779)|**[link](https://github.com/dice-group/joint-model-disaster-prediction)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Estimation
 
@@ -139,7 +139,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-07-07**|**Tropical cyclone intensity estimations over the Indian ocean using Machine Learning**|Koushik Biswas et.al.|[2107.05573](http://arxiv.org/abs/2107.05573)|null|
 |**2020-10-28**|**Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data**|Boyo Chen et.al.|[2010.14977](http://arxiv.org/abs/2010.14977)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Hurricane
 
@@ -150,7 +150,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-06-22**|**Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses**|Bolin Shen et.al.|[2506.17964](http://arxiv.org/abs/2506.17964)|null|
 |**2025-06-29**|**TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting**|Lincan Li et.al.|[2506.17609](http://arxiv.org/abs/2506.17609)|null|
 |**2025-06-18**|**Challenges and Research Directions from the Operational Use of a Machine Learning Damage Assessment System via Small Uncrewed Aerial Systems at Hurricanes Debby and Helene**|Thomas Manzini et.al.|[2506.15890](http://arxiv.org/abs/2506.15890)|null|
-|**2025-06-15**|**Towards NoahMP-AI: Enhancing Land Surface Model Prediction with Deep Learning**|Mahmoud Mbarak et.al.|[2506.12919](http://arxiv.org/abs/2506.12919)|**[link](https://github.com/NCAR/noahmp)**|
+|**2025-06-30**|**Towards NoahMP-AI: Enhancing Land Surface Model Prediction with Deep Learning**|Mahmoud Mbarak et.al.|[2506.12919](http://arxiv.org/abs/2506.12919)|**[link](https://github.com/NCAR/noahmp)**|
 |**2025-06-13**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
 |**2025-06-09**|**Imposing the Fundamental Dynamical Constraint of Hydrostatic Balance to Improve Global ML Weather Prediction**|Akshay Subramaniam et.al.|[2506.08285](http://arxiv.org/abs/2506.08285)|null|
 |**2025-06-07**|**Flood-DamageSense: Multimodal Mamba with Multitask Learning for Building Flood Damage Assessment using SAR Remote Sensing Imagery**|Yu-Hsuan Ho et.al.|[2506.06667](http://arxiv.org/abs/2506.06667)|**[link](https://github.com/violayhho/flood-damagesense)**|
@@ -234,7 +234,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2021-05-07**|**Probabilistic Modeling of Hurricane Wind-Induced Damage in Infrastructure Systems**|Derek Chang et.al.|[2105.03497](http://arxiv.org/abs/2105.03497)|null|
 |**2022-09-24**|**Hurricane Forecasting: A Novel Multimodal Machine Learning Framework**|Léonard Boussioux et.al.|[2011.06125](http://arxiv.org/abs/2011.06125)|**[link](https://github.com/leobix/hurricast)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
