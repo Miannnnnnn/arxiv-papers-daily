@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.07.07</span>
+# Updated on <span style='color:orange;'>2025.07.08</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
@@ -21,7 +21,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |**2025-06-12**|**Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial**|Jingyang Wu et.al.|[2506.09254](http://arxiv.org/abs/2506.09254)|null|
 |**2025-06-13**|**The spatially variable effects of mangroves on flood depths and losses from storm surges in Florida**|Siddharth Narayan et.al.|[2506.09078](http://arxiv.org/abs/2506.09078)|null|
 |**2025-06-07**|**Meteorologically-Informed Adaptive Conformal Prediction for Tropical Cyclone Intensity Forecasting**|Xuepeng Chen et.al.|[2506.06638](http://arxiv.org/abs/2506.06638)|null|
-|**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
+|**2025-07-03**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
 |**2025-05-20**|**A Bayesian Network Method for Deaggregation: Identification of Tropical Cyclones Driving Coastal Hazards**|Ziyue Liu et.al.|[2505.14374](http://arxiv.org/abs/2505.14374)|null|
 |**2025-05-13**|**An extreme value method to study decadal hurricane wind trends**|Alexandre Payez et.al.|[2505.08591](http://arxiv.org/abs/2505.08591)|null|
 |**2025-05-13**|**ExEBench: Benchmarking Foundation Models on Extreme Earth Events**|Shan Zhao et.al.|[2505.08529](http://arxiv.org/abs/2505.08529)|**[link](https://github.com/zhaoshan2/earthextreme-bench)**|
