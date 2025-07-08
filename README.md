@@ -146,6 +146,7 @@ You can learn directly from this [page](https://Marathon19.github.io/arxiv-paper
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-12**|**Compound Pendulum to Monitor Hurricanes and Tropical Storms**|Randall D. Peters et.al.|[physics/0610092](http://arxiv.org/abs/physics/0610092)|null|
+|**2025-07-07**|**Practical considerations for Gaussian Process modeling for causal inference quasi-experimental studies with panel data**|Sofia L. Vega et.al.|[2507.05128](http://arxiv.org/abs/2507.05128)|null|
 |**2025-07-03**|**Multi-Label Classification Framework for Hurricane Damage Assessment**|Zhangding Liu et.al.|[2507.02265](http://arxiv.org/abs/2507.02265)|null|
 |**2025-06-10**|**Hurricane Impact Index for Assessing Direct and Indirect Hazards in Central America**|Manrique Camacho et.al.|[2506.19858](http://arxiv.org/abs/2506.19858)|null|
 |**2025-06-22**|**Learning from the Storm: A Multivariate Machine Learning Approach to Predicting Hurricane-Induced Economic Losses**|Bolin Shen et.al.|[2506.17964](http://arxiv.org/abs/2506.17964)|null|
