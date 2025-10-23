@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.10.22</span>
+# Updated on <span style='color:orange;'>2025.10.23</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
 ## Tropical Cyclone
