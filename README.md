@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 
-# Stop running on May 18th, 2026
+# Stop running on May 18, 2026
 # Updated on <span style='color:orange;'>2026.05.18</span>
 ## Website 
 You can learn directly from this [page](https://Marathon19.github.io/arxiv-papers-daily/)
